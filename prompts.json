@@ -1,8 +1,0 @@
-[
-  {
-    "url": "onepromptsites.com",
-    "date": "2025-05-13",
-    "creator": "griffin",
-    "prompt": "Create a mobile-friendly and SEO-optimized directory page called **\\\"One Prompt Sites\\\"**.\n\nFetch site data from this JSON URL:  \n**https://yourdomain.com/sites.json**\n\nEach entry in the JSON includes:\n- `url`: The website URL\n- `date`: ISO date string (e.g. \\\"2025-05-12\\\")\n- `creator`: Name or code name of the site creator\n- `prompt`: The full AI prompt used to create the site (this may include line breaks, indentation, and markdown-style formatting)\n\n### Display Requirements:\n- Clickable website link (open in new tab)\n- Human-readable date (e.g. \\\"May 12, 2025\\\")\n- Creator name or alias\n- Chevron or toggle to expand and show the full prompt\n\n### Formatting Notes:\n- Preserve line breaks and formatting from the `prompt` field\n- Render prompt text inside a `<pre>` or styled `<div>` to maintain spacing and indentation\n- Ensure markdown (if present) is rendered cleanly or at least legible\n- Use semantic HTML and accessible labels\n\n### Design Guidelines:\n- Sort entries by newest first\n- Hero title: “One Prompt Sites”\n- Subheading: “Websites created with a single AI prompt.”\n- Intro paragraph:  \n  > “Explore the creativity and power of one-prompt web creation. This directory highlights real sites built from a single Lovable AI prompt—fast, minimal, and AI-driven.”\n- Minimal, clean UI with mobile responsiveness\n- Add a footer with a placeholder for social/contact links\n\n### SEO Optimized Keywords:\n- “AI-built websites”\n- “AI website prompts”\n- “One prompt web builds”\n- “Websites built with AI”\n- “Prompt-powered web creation”"
-  }
-]
