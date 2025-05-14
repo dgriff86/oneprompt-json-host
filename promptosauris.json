@@ -1,172 +1,172 @@
 [
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Step-by-step guidance",
+    "prompt name": "Step-by-step guidance",
     "prompt": "Let’s go one step at a time. Wait for me before moving on."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Only give step 1",
+    "prompt name": "Only give step 1",
     "prompt": "Only give me step 1. Don’t move to step 2 unless I say so."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Think with me",
+    "prompt name": "Think with me",
     "prompt": "Help me think through this — don’t solve it all at once."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Break into parts",
+    "prompt name": "Break into parts",
     "prompt": "Break this into manageable parts. Let’s work on just the first one."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Short replies",
+    "prompt name": "Short replies",
     "prompt": "Don’t write long replies. Keep it to one actionable thought at a time."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Wait for input",
+    "prompt name": "Wait for input",
     "prompt": "Only reply with ‘okay’ until I ask you for something specific."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Ask questions first",
+    "prompt name": "Ask questions first",
     "prompt": "Ask me one question at a time to clarify my goal before jumping in."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Confirm each step",
+    "prompt name": "Confirm each step",
     "prompt": "Pause and wait for my confirmation after each step."
   },
   {
     "category": "Pacing & Flow",
-    "prompt Name": "Act like a coach",
+    "prompt name": "Act like a coach",
     "prompt": "Act like a coach. Guide me with prompts, not answers."
   },
   {
     "category": "Clarifying & Reflective",
-    "prompt Name": "Summarize intent",
+    "prompt name": "Summarize intent",
     "prompt": "Summarize my intent in your own words before continuing."
   },
   {
     "category": "Clarifying & Reflective",
-    "prompt Name": "Reflect in bullets",
+    "prompt name": "Reflect in bullets",
     "prompt": "Reflect back what I just said in 3 bullet points."
   },
   {
     "category": "Clarifying & Reflective",
-    "prompt Name": "Interpret my goal",
+    "prompt name": "Interpret my goal",
     "prompt": "Based on what I told you, what do you think I’m trying to do?"
   },
   {
     "category": "Clarifying & Reflective",
-    "prompt Name": "Ask instead of guess",
+    "prompt name": "Ask instead of guess",
     "prompt": "Ask me follow-up questions to clarify, instead of guessing."
   },
   {
     "category": "Clarifying & Reflective",
-    "prompt Name": "List interpretations",
+    "prompt name": "List interpretations",
     "prompt": "Can you list 3 different interpretations of what I might mean?"
   },
   {
     "category": "Clarifying & Reflective",
-    "prompt Name": "Explain understanding",
+    "prompt name": "Explain understanding",
     "prompt": "Before you answer, tell me how you’re understanding my request."
   },
   {
     "category": "Output Style",
-    "prompt Name": "Copy-paste ready",
+    "prompt name": "Copy-paste ready",
     "prompt": "Use clean formatting and keep it copy-paste friendly."
   },
   {
     "category": "Output Style",
-    "prompt Name": "Bullet points only",
+    "prompt name": "Bullet points only",
     "prompt": "Reply in bullet points unless I say otherwise."
   },
   {
     "category": "Output Style",
-    "prompt Name": "Scannable layout",
+    "prompt name": "Scannable layout",
     "prompt": "Structure the output so it’s easy to scan, not read like a paragraph."
   },
   {
     "category": "Output Style",
-    "prompt Name": "Polished output",
+    "prompt name": "Polished output",
     "prompt": "Write this like a professional email / executive summary / doc outline."
   },
   {
     "category": "Output Style",
-    "prompt Name": "No emojis or fluff",
+    "prompt name": "No emojis or fluff",
     "prompt": "No emojis or fluff — keep it professional."
   },
   {
     "category": "Output Style",
-    "prompt Name": "Plain text only",
+    "prompt name": "Plain text only",
     "prompt": "Don’t use markdown or special characters. Just raw text."
   },
   {
     "category": "Output Style",
-    "prompt Name": "Use plain language",
+    "prompt name": "Use plain language",
     "prompt": "Use plain language. Assume the reader is smart but non-technical."
   },
   {
     "category": "Creative Thinking",
-    "prompt Name": "Multiple takes",
+    "prompt name": "Multiple takes",
     "prompt": "Give me 5 different takes before narrowing in on one."
   },
   {
     "category": "Creative Thinking",
-    "prompt Name": "Diverse ideas",
+    "prompt name": "Diverse ideas",
     "prompt": "Don’t rank ideas, just list diverse ones for now."
   },
   {
     "category": "Creative Thinking",
-    "prompt Name": "Get weird",
+    "prompt name": "Get weird",
     "prompt": "Go weird. I’ll tell you when to dial it back."
   },
   {
     "category": "Creative Thinking",
-    "prompt Name": "Obvious + unexpected",
+    "prompt name": "Obvious + unexpected",
     "prompt": "Give me both the obvious answer and the counterintuitive one."
   },
   {
     "category": "Creative Thinking",
-    "prompt Name": "More playful",
+    "prompt name": "More playful",
     "prompt": "Try again, but with a more playful tone."
   },
   {
     "category": "Creative Thinking",
-    "prompt Name": "Explain like a kid",
+    "prompt name": "Explain like a kid",
     "prompt": "Pitch this like you’re explaining it to a 10-year-old."
   },
   {
     "category": "Use-Case Framing",
-    "prompt Name": "Content strategist",
+    "prompt name": "Content strategist",
     "prompt": "Act like a YouTube content strategist. I want video ideas for [topic]."
   },
   {
     "category": "Use-Case Framing",
-    "prompt Name": "TikTok scripting",
+    "prompt name": "TikTok scripting",
     "prompt": "Help me script this like a TikTok. Hook → info → CTA."
   },
   {
     "category": "Use-Case Framing",
-    "prompt Name": "Blog post intro",
+    "prompt name": "Blog post intro",
     "prompt": "Write it like a blog post intro that grabs attention."
   },
   {
     "category": "Use-Case Framing",
-    "prompt Name": "Lovable prompt format",
+    "prompt name": "Lovable prompt format",
     "prompt": "Structure this prompt to work with Lovable or another one-prompt site builder."
   },
   {
     "category": "Use-Case Framing",
-    "prompt Name": "JSON-friendly",
+    "prompt name": "JSON-friendly",
     "prompt": "Make this JSON-friendly. Keep all special characters escaped."
   },
   {
     "category": "Use-Case Framing",
-    "prompt Name": "No backend needed",
+    "prompt name": "No backend needed",
     "prompt": "Write this in a way that avoids needing a backend."
   }
 ]
