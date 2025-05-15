@@ -1,0 +1,63 @@
+{
+  "categories": [
+    { "id": 1, "name": "Hot Drinks", "sort_order": 1 },
+    { "id": 2, "name": "Smoothies", "sort_order": 2 },
+    { "id": 3, "name": "Food", "sort_order": 3 }
+  ],
+  "menu_items": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Cappuccino",
+      "description": "",
+      "base_price": 6.00,
+      "image_url": "",
+      "is_available": true,
+      "prep_area": "barista"
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "Flat White",
+      "description": "",
+      "base_price": 5.50,
+      "image_url": "",
+      "is_available": true,
+      "prep_area": "barista"
+    },
+    {
+      "id": 3,
+      "category_id": 2,
+      "name": "Berry Smoothie",
+      "description": "Mixed berries, banana, yoghurt",
+      "base_price": 9.00,
+      "image_url": "",
+      "is_available": true,
+      "prep_area": "barista"
+    },
+    {
+      "id": 4,
+      "category_id": 3,
+      "name": "Avocado Toast",
+      "description": "Sourdough, smashed avo, chili flakes",
+      "base_price": 12.00,
+      "image_url": "",
+      "is_available": true,
+      "prep_area": "kitchen"
+    }
+  ],
+  "addons": [
+    { "id": 1, "name": "Extra Shot", "price": 0.5, "addon_group_id": 1 },
+    { "id": 2, "name": "Oat Milk", "price": 0.7, "addon_group_id": 1 },
+    { "id": 3, "name": "Pineapple", "price": 1.5, "addon_group_id": 2 }
+  ],
+  "addon_groups": [
+    { "id": 1, "name": "Coffee Extras", "multiple_allowed": true, "required": false },
+    { "id": 2, "name": "Smoothie Add-ons", "multiple_allowed": true, "required": false }
+  ],
+  "menu_item_addon_group": [
+    { "id": 1, "menu_item_id": 1, "addon_group_id": 1 },
+    { "id": 2, "menu_item_id": 2, "addon_group_id": 1 },
+    { "id": 3, "menu_item_id": 3, "addon_group_id": 2 }
+  ]
+}
