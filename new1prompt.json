@@ -8,8 +8,7 @@
     "notes": "Showcase of prompt generating the home page. Some\n  text edited in code directly after the prompt.",
     "tool": "Lovable.dev",
     "whatWorked": "Simple and straightforward, I’ve been refining my\n  personal GPT to learn what works best.",
-    "whatDidntWork": "1 code fix automatically cycled. I found that\n  trying to force a specific theme through detailed wording often restricted\n  the AI too much. Instead, I started attaching a reference image of the style\n  I wanted, that shift made a huge difference in how well the results matched\n  my vision.",
-    "nextSteps": "Use this as the base for fivepromptsites.com. Might\n  take this off oneprompt to make it easier to manage in the future."
+    "whatDidntWork": "1 code fix automatically cycled. I found that\n  trying to force a specific theme through detailed wording often restricted\n  the AI too much. Instead, I started attaching a reference image of the style\n  I wanted, that shift made a huge difference in how well the results matched\n  my vision."
   },
   {
     "title": "onepromptGymBro Home Page",
@@ -20,8 +19,7 @@
     "notes": "Starting to get an idea of what you can do. Fully\n  interactive class scheduler with basic lead capture and conversion\n  functionality.",
     "tool": "Bolt.new",
     "whatWorked": "This is my first site on bolt. Not sure I love it but will\n  continue testing",
-    "whatDidntWork": "You can't force to much through AI. I really wanted a member\n  login section as well member engagement functions but the prompt just got too\n  sophisticated and AI couldn't keep up.",
-    "nextSteps": "Member Portal + Health Tracking + Booking + Billing"
+    "whatDidntWork": "You can't force to much through AI. I really wanted a member\n  login section as well member engagement functions but the prompt just got too\n  sophisticated and AI couldn't keep up."
   },
   {
     "title": "onepromptEXCELtoJSON Home page",
@@ -32,8 +30,7 @@
     "notes": "The site was built to make my life easier. There are other\n  converters but wanted easy copy and paste from excel tables.",
     "tool": "Lovable.dev - Remix @\n  https://lovable.dev/projects/3436965a-5cd6-4cd3-96d1-ce92ad4d5dbf",
     "whatWorked": "Great simple clean site. Something I'll be using for my\n  projects going forward.",
-    "whatDidntWork": "Lovable didn't build in a new favicon so stuck with the default… Site should\n  have been named onepromptEXCELtoJSON. Code was manually edited. Google AdSense slot request was\n  ignored by AI, will need to add it manually later if this concept works.",
-    "nextSteps": "I would like support for multiple tables in one JSON to simulate multi-table\n  database structure. If successful, plans to remix into fivepromptSites concept."
+    "whatDidntWork": "Lovable didn't build in a new favicon so stuck with the default… Site should\n  have been named onepromptEXCELtoJSON. Code was manually edited. Google AdSense slot request was\n  ignored by AI, will need to add it manually later if this concept works."
   },
   {
     "title": "onepromptCafeConcept Home page",
@@ -44,7 +41,6 @@
     "notes": "I'm so happy with how this turned out! Tested out serving\n  dummy database tables through a JSON file and the functionality is awesome!",
     "tool": "Lovable.dev - Remix @\n  https://lovable.dev/projects/1f8dfab4-38fc-4ff7-a725-8252d7c513b8",
     "whatWorked": "Functionality and menu admin is way better than expected. Can\n  edit and manage everything from pricing to add-ons. Separate kitchen and\n  barista queues for workflow works well.",
-    "whatDidntWork": "Minor bug that you can’t return to landing page\n  once in the menu. Customer initiated orders don’t provide the option to enter\n  name or table numbers.",
-    "nextSteps": "Booking system > Billing and tax > Discounting and\n  Specials"
+    "whatDidntWork": "8 code fix cycles. Minor bug that you can’t return\n  to landing page once in the menu. Customer initiated orders don’t provide the\n  option to enter name or table numbers."
   }
 ]
