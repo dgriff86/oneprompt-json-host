@@ -66,8 +66,8 @@
   },
   {
     "title": "Strong Prompt Pool Services",
-    "url": "https://oneprompt-pool-services.lovable.app/",
-    "previewImage": "https://api.microlink.io/?url=https://oneprompt-pool-services.lovable.app&screenshot=true&embed=screenshot.url",
+    "url": "https://1-published-oneprompt-pool-services.lovable.app/",
+    "previewImage": "https://api.microlink.io/?url=https://1-published-oneprompt-pool-services.lovable.app&screenshot=true&embed=screenshot.url",
     "prompt": "Create a professional, visually clean, and mobile-optimized\n  website for a pool services company named\n  \"onepromptPoolServices\".\n    \n    **Branding and Visual Design:**\n    - Use a minimalist design with a color palette that evokes cleanliness and\n  relaxation, such as shades of blue and white.\n    - Incorporate high-quality images of pools, maintenance work, and satisfied\n  customers.\n    - Ensure consistent use of fonts and colors throughout the site to\n  reinforce brand identity.\n    \n    **Homepage:**\n    - Feature a prominent hero section with a clear value proposition and a\n  compelling call-to-action (e.g., \"Schedule Your Pool Service\n  Today\").\n    - Include a brief overview of services offered with links to detailed\n  service pages.\n    - Display customer testimonials with real names and photos to build\n  trust.\n    - Highlight any certifications or affiliations to establish\n  credibility.\n    \n    **Services Page:**\n    - List all services offered, such as pool cleaning, maintenance, repairs,\n  and inspections.\n    - Provide detailed descriptions for each service, including benefits and\n  what customers can expect.\n    - Use icons or images to visually represent each service.\n    \n    **About Us Page:**\n    - Share the company's mission, values, and history.\n    - Introduce the team with photos and short bios to personalize the\n  business.\n    - Mention any awards, certifications, or notable projects.\n    \n    **Gallery Page:**\n    - Showcase before-and-after photos of pool projects.\n    - Organize images into categories (e.g., cleaning, repairs, installations)\n  for easy navigation.\n    - Ensure images are optimized for fast loading without compromising\n  quality.\n    \n    **Contact Page:**\n    - Include a contact form with fields for name, email, phone number, and\n  message.\n    - Provide multiple contact options: phone number, email address, and\n  physical address with an embedded Google Map.\n    - Add social media links for platforms like Facebook and Instagram.\n    \n    **Additional Features:**\n    - Implement a blog section to share pool maintenance tips, company news,\n  and industry updates.\n    - Ensure the website is responsive and functions seamlessly on all\n  devices.\n    - Optimize the site for search engines with appropriate meta tags, alt text\n  for images, and keyword-rich content.\n    - Include a favicon by uploading a separate .ico file and linking it in the\n  HTML head section.\n    - Add a footer with the text: “Built with love · One prompt at a time”,\n  centered and styled to match the site's aesthetic.",
     "createdAt": "2025-05-18",
     "notes": "Design test, am I over engineering? Detailed prompt - Easy\n  pool cleaning site. Well designed and easy to navigate and is one prompt\n  worthy.",
@@ -79,8 +79,8 @@
   },
   {
     "title": "Basic Prompt Pool Services",
-    "url": "https://oneprompt-sydney-pool-wizard.lovable.app/",
-    "previewImage": "https://api.microlink.io/?url=https://oneprompt-sydney-pool-wizard.lovable.app&screenshot=true&embed=screenshot.url",
+    "url": "https://1-published-oneprompt-sydney-pool-wizard.lovable.app/",
+    "previewImage": "https://api.microlink.io/?url=https://1-published-oneprompt-sydney-pool-wizard.lovable.app&screenshot=true&embed=screenshot.url",
     "prompt": "Build me a really awesome pool cleaning website for a business\n  in Sydney Australia called onepromptPoolCleaning",
     "createdAt": "2025-05-18",
     "notes": "Design test, am I over engineering? Very basic prompt - Easy\n  pool cleaning site. Pretty good also.",
