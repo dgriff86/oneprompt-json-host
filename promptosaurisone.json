@@ -286,7 +286,7 @@
     "promptTitle": "Tweet Thread",
     "description": "Write a Twitter thread that explains [TOPIC] in a simple,\n  engaging way.",
     "inputGuidance": "",
-    "prefill": "Write a Twitter thread that explains [TOPIC] in a simple,\n  engaging way.",
+    "prefill": "Write a Twitter thread that explains [MARKETING] in a simple,\n  engaging way.",
     "isFeatured": "true"
   },
   {
@@ -296,7 +296,7 @@
     "promptTitle": "Blog Post Ideas",
     "description": "Give me 5 blog post ideas that would appeal to someone\n  interested in [TOPIC].",
     "inputGuidance": "",
-    "prefill": "Give me 5 blog post ideas that would appeal to someone\n  interested in [TOPIC].",
+    "prefill": "Give me 5 blog post ideas that would appeal to someone\n  interested in [BUSINESS].",
     "isFeatured": "true"
   },
   {
