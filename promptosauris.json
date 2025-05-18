@@ -152,26 +152,26 @@
   {
     "category": "Use-Case Framing",
     "promptName": "YouTube Content Strategist",
-    "prompt": "Act like a YouTube strategist. Suggest 3 video ideas for a channel about [TOPIC]."
+    "prompt": "Act like a YouTube strategist. Suggest 3 video ideas for a channel about [GENERAL]."
   },
   {
     "category": "Use-Case Framing",
     "promptName": "Newsletter Segment",
-    "prompt": "Write a short email newsletter section about [TOPIC] with a fun hook and CTA."
+    "prompt": "Write a short email newsletter section about [FINANCE] with a fun hook and CTA."
   },
   {
     "category": "Use-Case Framing",
     "promptName": "Podcast Episode Outline",
-    "prompt": "Outline a 20-minute podcast episode discussing [TOPIC]."
+    "prompt": "Outline a 20-minute podcast episode discussing [MARKETING]."
   },
   {
     "category": "Use-Case Framing",
     "promptName": "TikTok Hook Generator",
-    "prompt": "Give me 3 TikTok hook ideas to grab attention on [TOPIC] in the first 5 seconds."
+    "prompt": "Give me 3 TikTok hook ideas to grab attention on [MARKETING] in the first 5 seconds."
   },
   {
     "category": "Use-Case Framing",
     "promptName": "Explainer Summary",
-    "prompt": "Explain [TOPIC] in a way that a smart 10-year-old could understand it."
+    "prompt": "Explain [BUSINESS] in a way that a smart 10-year-old could understand it."
   }
 ]
