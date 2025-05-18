@@ -67,5 +67,65 @@
       "included_items": "Full property deep clean",
       "estimated_time": 240
     }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "service_package_id": 1,
+      "selected_addons": "[1]",
+      "date": "2025-06-01 10:00",
+      "address": "123 Main St",
+      "status": "Scheduled",
+      "staff_id": 1,
+      "invoice_id": 1
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "service_package_id": 2,
+      "selected_addons": "[2, 3]",
+      "date": "2025-06-02 14:00",
+      "address": "456 Side St",
+      "status": "Confirmed",
+      "staff_id": 2,
+      "invoice_id": 2
+    }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "name": "Cleaner One",
+      "role": "Cleaner",
+      "availability": "{\"mon\": [9, 17], \"tue\": [9, 17]}"
+    },
+    {
+      "id": 2,
+      "name": "Cleaner Two",
+      "role": "Cleaner",
+      "availability": "{\"sat\": [10, 16]}"
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "booking_id": 1,
+      "issued_date": "2025-05-18",
+      "due_date": "2025-06-01",
+      "amount_due": 180,
+      "status": "Unpaid",
+      "payment_method": "Card",
+      "transactions": "[]"
+    },
+    {
+      "id": 2,
+      "booking_id": 2,
+      "issued_date": "2025-05-18",
+      "due_date": "2025-06-02",
+      "amount_due": 275,
+      "status": "Paid",
+      "payment_method": "Cash",
+      "transactions": "[]"
+    }
   ]
 }
