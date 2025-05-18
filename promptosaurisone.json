@@ -1,0 +1,352 @@
+[
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "step-by-step_guidance",
+    "promptTitle": "Step-by-step guidance",
+    "description": "Let’s go one step at a time. Wait for me before moving on.",
+    "inputGuidance": "",
+    "prefill": "Let’s go one step at a time. Wait for me before moving on.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "only_give_step_1",
+    "promptTitle": "Only give step 1",
+    "description": "Only give me step 1. Don’t move to step 2 unless I say so.",
+    "inputGuidance": "",
+    "prefill": "Only give me step 1. Don’t move to step 2 unless I say so.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "think_with_me",
+    "promptTitle": "Think with me",
+    "description": "Help me think through this — don’t solve it all at once.",
+    "inputGuidance": "",
+    "prefill": "Help me think through this — don’t solve it all at once.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "break_into_parts",
+    "promptTitle": "Break into parts",
+    "description": "Break this into manageable parts. Let’s work on just the first\n  one.",
+    "inputGuidance": "",
+    "prefill": "Break this into manageable parts. Let’s work on just the first\n  one.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "short_replies",
+    "promptTitle": "Short replies",
+    "description": "Don’t write long replies. Keep it to one actionable thought at\n  a time.",
+    "inputGuidance": "",
+    "prefill": "Don’t write long replies. Keep it to one actionable thought at\n  a time.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "wait_for_input",
+    "promptTitle": "Wait for input",
+    "description": "Only reply with ‘okay’ until I ask you for something specific.",
+    "inputGuidance": "",
+    "prefill": "Only reply with ‘okay’ until I ask you for something specific.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "ask_questions_first",
+    "promptTitle": "Ask questions first",
+    "description": "Ask me one question at a time to clarify my goal before\n  jumping in.",
+    "inputGuidance": "",
+    "prefill": "Ask me one question at a time to clarify my goal before\n  jumping in.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "confirm_each_step",
+    "promptTitle": "Confirm each step",
+    "description": "Pause and wait for my confirmation after each step.",
+    "inputGuidance": "",
+    "prefill": "Pause and wait for my confirmation after each step.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "pacing_and_flow",
+    "categoryLabel": "Pacing & Flow",
+    "promptId": "act_like_a_coach",
+    "promptTitle": "Act like a coach",
+    "description": "Act like a coach. Guide me with prompts, not answers.",
+    "inputGuidance": "",
+    "prefill": "Act like a coach. Guide me with prompts, not answers.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "clarifying_and_reflective",
+    "categoryLabel": "Clarifying & Reflective",
+    "promptId": "summarize_intent",
+    "promptTitle": "Summarize intent",
+    "description": "Summarize my intent in your own words before continuing.",
+    "inputGuidance": "",
+    "prefill": "Summarize my intent in your own words before continuing.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "clarifying_and_reflective",
+    "categoryLabel": "Clarifying & Reflective",
+    "promptId": "reflect_in_bullets",
+    "promptTitle": "Reflect in bullets",
+    "description": "Reflect back what I just said in 3 bullet points.",
+    "inputGuidance": "",
+    "prefill": "Reflect back what I just said in 3 bullet points.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "clarifying_and_reflective",
+    "categoryLabel": "Clarifying & Reflective",
+    "promptId": "interpret_my_goal",
+    "promptTitle": "Interpret my goal",
+    "description": "Based on what I told you, what do you think I’m trying to do?",
+    "inputGuidance": "",
+    "prefill": "Based on what I told you, what do you think I’m trying to do?",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "clarifying_and_reflective",
+    "categoryLabel": "Clarifying & Reflective",
+    "promptId": "ask_instead_of_guess",
+    "promptTitle": "Ask instead of guess",
+    "description": "Ask me follow-up questions to clarify, instead of guessing.",
+    "inputGuidance": "",
+    "prefill": "Ask me follow-up questions to clarify, instead of guessing.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "clarifying_and_reflective",
+    "categoryLabel": "Clarifying & Reflective",
+    "promptId": "list_interpretations",
+    "promptTitle": "List interpretations",
+    "description": "Can you list 3 different interpretations of what I might mean?",
+    "inputGuidance": "",
+    "prefill": "Can you list 3 different interpretations of what I might mean?",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "clarifying_and_reflective",
+    "categoryLabel": "Clarifying & Reflective",
+    "promptId": "explain_understanding",
+    "promptTitle": "Explain understanding",
+    "description": "Before you answer, tell me how you’re understanding my\n  request.",
+    "inputGuidance": "",
+    "prefill": "Before you answer, tell me how you’re understanding my\n  request.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "copy-paste_ready",
+    "promptTitle": "Copy-paste ready",
+    "description": "Use clean formatting and keep it copy-paste friendly.",
+    "inputGuidance": "",
+    "prefill": "Use clean formatting and keep it copy-paste friendly.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "bullet_points_only",
+    "promptTitle": "Bullet points only",
+    "description": "Reply in bullet points unless I say otherwise.",
+    "inputGuidance": "",
+    "prefill": "Reply in bullet points unless I say otherwise.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "scannable_layout",
+    "promptTitle": "Scannable layout",
+    "description": "Structure the output so it’s easy to scan, not read like a\n  paragraph.",
+    "inputGuidance": "",
+    "prefill": "Structure the output so it’s easy to scan, not read like a\n  paragraph.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "polished_output",
+    "promptTitle": "Polished output",
+    "description": "Write this like a professional email / executive summary / doc\n  outline.",
+    "inputGuidance": "",
+    "prefill": "Write this like a professional email / executive summary / doc\n  outline.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "no_emojis_or_fluff",
+    "promptTitle": "No emojis or fluff",
+    "description": "No emojis or fluff — keep it professional.",
+    "inputGuidance": "",
+    "prefill": "No emojis or fluff — keep it professional.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "plain_text_only",
+    "promptTitle": "Plain text only",
+    "description": "Don’t use markdown or special characters. Just raw text.",
+    "inputGuidance": "",
+    "prefill": "Don’t use markdown or special characters. Just raw text.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "output_style",
+    "categoryLabel": "Output Style",
+    "promptId": "use_plain_language",
+    "promptTitle": "Use plain language",
+    "description": "Use plain language. Assume the reader is smart but\n  non-technical.",
+    "inputGuidance": "",
+    "prefill": "Use plain language. Assume the reader is smart but\n  non-technical.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "creative_thinking",
+    "categoryLabel": "Creative Thinking",
+    "promptId": "multiple_takes",
+    "promptTitle": "Multiple takes",
+    "description": "Give me 5 different takes before narrowing in on one.",
+    "inputGuidance": "",
+    "prefill": "Give me 5 different takes before narrowing in on one.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "creative_thinking",
+    "categoryLabel": "Creative Thinking",
+    "promptId": "diverse_ideas",
+    "promptTitle": "Diverse ideas",
+    "description": "Don’t rank ideas, just list diverse ones for now.",
+    "inputGuidance": "",
+    "prefill": "Don’t rank ideas, just list diverse ones for now.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "creative_thinking",
+    "categoryLabel": "Creative Thinking",
+    "promptId": "get_weird",
+    "promptTitle": "Get weird",
+    "description": "Go weird. I’ll tell you when to dial it back.",
+    "inputGuidance": "",
+    "prefill": "Go weird. I’ll tell you when to dial it back.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "creative_thinking",
+    "categoryLabel": "Creative Thinking",
+    "promptId": "obvious_+_unexpected",
+    "promptTitle": "Obvious + unexpected",
+    "description": "Give me both the obvious answer and the counterintuitive one.",
+    "inputGuidance": "",
+    "prefill": "Give me both the obvious answer and the counterintuitive one.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "creative_thinking",
+    "categoryLabel": "Creative Thinking",
+    "promptId": "more_playful",
+    "promptTitle": "More playful",
+    "description": "Try again, but with a more playful tone.",
+    "inputGuidance": "",
+    "prefill": "Try again, but with a more playful tone.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "creative_thinking",
+    "categoryLabel": "Creative Thinking",
+    "promptId": "explain_like_a_kid",
+    "promptTitle": "Explain like a kid",
+    "description": "Pitch this like you’re explaining it to a 10-year-old.",
+    "inputGuidance": "",
+    "prefill": "Pitch this like you’re explaining it to a 10-year-old.",
+    "isFeatured": "false"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "tweet_thread",
+    "promptTitle": "Tweet Thread",
+    "description": "Write a Twitter thread that explains [TOPIC] in a simple,\n  engaging way.",
+    "inputGuidance": "",
+    "prefill": "Write a Twitter thread that explains [TOPIC] in a simple,\n  engaging way.",
+    "isFeatured": "true"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "blog_post_ideas",
+    "promptTitle": "Blog Post Ideas",
+    "description": "Give me 5 blog post ideas that would appeal to someone\n  interested in [TOPIC].",
+    "inputGuidance": "",
+    "prefill": "Give me 5 blog post ideas that would appeal to someone\n  interested in [TOPIC].",
+    "isFeatured": "true"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "youtube_content_strategist",
+    "promptTitle": "YouTube Content Strategist",
+    "description": "Act like a YouTube strategist. Suggest 3 video ideas for a\n  channel about [GENERAL].",
+    "inputGuidance": "",
+    "prefill": "Act like a YouTube strategist. Suggest 3 video ideas for a\n  channel about [GENERAL].",
+    "isFeatured": "true"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "newsletter_segment",
+    "promptTitle": "Newsletter Segment",
+    "description": "Write a short email newsletter section about [FINANCE] with a\n  fun hook and CTA.",
+    "inputGuidance": "",
+    "prefill": "Write a short email newsletter section about [FINANCE] with a\n  fun hook and CTA.",
+    "isFeatured": "true"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "podcast_episode_outline",
+    "promptTitle": "Podcast Episode Outline",
+    "description": "Outline a 20-minute podcast episode discussing [MARKETING].",
+    "inputGuidance": "",
+    "prefill": "Outline a 20-minute podcast episode discussing [MARKETING].",
+    "isFeatured": "true"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "tiktok_hook_generator",
+    "promptTitle": "TikTok Hook Generator",
+    "description": "Give me 3 TikTok hook ideas to grab attention on [MARKETING]\n  in the first 5 seconds.",
+    "inputGuidance": "",
+    "prefill": "Give me 3 TikTok hook ideas to grab attention on [MARKETING]\n  in the first 5 seconds.",
+    "isFeatured": "true"
+  },
+  {
+    "categoryId": "use-case_framing",
+    "categoryLabel": "Use-Case Framing",
+    "promptId": "explainer_summary",
+    "promptTitle": "Explainer Summary",
+    "description": "Explain [BUSINESS] in a way that a smart 10-year-old could\n  understand it.",
+    "inputGuidance": "",
+    "prefill": "Explain [BUSINESS] in a way that a smart 10-year-old could\n  understand it.",
+    "isFeatured": "true"
+  }
+]
