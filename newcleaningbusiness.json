@@ -1,0 +1,71 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Domestic Cleaning",
+      "description": "General home cleaning",
+      "default_duration_minutes": 120,
+      "base_price": 150
+    },
+    {
+      "id": 2,
+      "name": "Deep Cleaning",
+      "description": "In-depth cleaning of entire house",
+      "default_duration_minutes": 180,
+      "base_price": 200
+    },
+    {
+      "id": 3,
+      "name": "End of Lease Cleaning",
+      "description": "Thorough cleaning for moving out",
+      "default_duration_minutes": 240,
+      "base_price": 250
+    }
+  ],
+  "pricing_tiers": [
+    {
+      "id": 1,
+      "name": "Standard",
+      "description": "Basic package",
+      "multiplier": 1.0
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "description": "Enhanced package",
+      "multiplier": 1.25
+    },
+    {
+      "id": 3,
+      "name": "Elite",
+      "description": "Top tier service",
+      "multiplier": 1.5
+    }
+  ],
+  "service_packages": [
+    {
+      "id": 1,
+      "tier_id": 1,
+      "service_id": 1,
+      "title": "Everyday Tidy",
+      "included_items": "Floors, surfaces",
+      "estimated_time": 120
+    },
+    {
+      "id": 2,
+      "tier_id": 2,
+      "service_id": 2,
+      "title": "Full Deep Clean",
+      "included_items": "Kitchen, bathroom, floors",
+      "estimated_time": 180
+    },
+    {
+      "id": 3,
+      "tier_id": 3,
+      "service_id": 3,
+      "title": "End-of-Lease Pro",
+      "included_items": "Full property deep clean",
+      "estimated_time": 240
+    }
+  ]
+}
