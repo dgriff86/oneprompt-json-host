@@ -480,48 +480,6 @@
     "prompt": "Turn this business idea into a jingle or theme song. Include\n  at least one rhyme."
   },
   {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "Tweet Thread",
-    "prompt": "Write a Twitter thread that explains [TOPIC] in a simple,\n  engaging way."
-  },
-  {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "Blog Post Ideas",
-    "prompt": "Give me 5 blog post ideas that would appeal to someone\n  interested in [TOPIC]."
-  },
-  {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "YouTube Content Strategist",
-    "prompt": "Act like a YouTube strategist. Suggest 3 video ideas for a\n  channel about [GENERAL]."
-  },
-  {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "Newsletter Segment",
-    "prompt": "Write a short email newsletter section about [FINANCE] with a\n  fun hook and CTA."
-  },
-  {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "Podcast Episode Outline",
-    "prompt": "Outline a 20-minute podcast episode discussing [MARKETING]."
-  },
-  {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "TikTok Hook Generator",
-    "prompt": "Give me 3 TikTok hook ideas to grab attention on [MARKETING]\n  in the first 5 seconds."
-  },
-  {
-    "mainCategory": "General",
-    "category": "Use-Case Framing",
-    "promptName": "Explainer Summary",
-    "prompt": "Explain [BUSINESS] in a way that a smart 10-year-old could\n  understand it."
-  },
-  {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Frame like a strategist",
