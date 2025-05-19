@@ -3,7 +3,7 @@
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Step-by-step guidance",
-    "prompt": "Let’s go one step at a time. Wait for me before moving on to\n  the next part."
+    "prompt": "Let’s go one step at a time. Wait for me before moving on to the next part."
   },
   {
     "mainCategory": "General",
@@ -15,25 +15,25 @@
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Think with me",
-    "prompt": "Help me think through this — don’t solve it all at once. Walk\n  through your reasoning with me slowly."
+    "prompt": "Help me think through this — don’t solve it all at once. Walk through your reasoning with me slowly."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Break into parts",
-    "prompt": "Break this into manageable parts. Let’s work on just the first\n  one."
+    "prompt": "Break this into manageable parts. Let’s work on just the first one."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Short replies only",
-    "prompt": "Don’t write long replies. Keep it to one actionable thought at\n  a time."
+    "prompt": "Don’t write long replies. Keep it to one actionable thought at a time."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Bullet point summary",
-    "prompt": "Give me the answer as 5–7 concise bullet points. No long\n  paragraphs."
+    "prompt": "Give me the answer as 5–7 concise bullet points. No long paragraphs."
   },
   {
     "mainCategory": "General",
@@ -45,115 +45,115 @@
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Chunked learning",
-    "prompt": "Break this concept into learning chunks. Give me the first one\n  and ask if I want to continue."
+    "prompt": "Break this concept into learning chunks. Give me the first one and ask if I want to continue."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Drip feed info",
-    "prompt": "Feed me this information in a slow drip — one concept per\n  message. Ask before sending the next."
+    "prompt": "Feed me this information in a slow drip — one concept per message. Ask before sending the next."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Socratic method",
-    "prompt": "Ask me guiding questions instead of giving answers. Help me\n  arrive at the insight myself."
+    "prompt": "Ask me guiding questions instead of giving answers. Help me arrive at the insight myself."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Reverse Q&A",
-    "prompt": "I want to quiz *you*. Respond only with short answers I can\n  build on or correct."
+    "prompt": "I want to quiz *you*. Respond only with short answers I can build on or correct."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Teach it back",
-    "prompt": "Teach this back to me as if I’m a beginner and ask for\n  confirmation after each section."
+    "prompt": "Teach this back to me as if I’m a beginner and ask for confirmation after each section."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Checkpoint every answer",
-    "prompt": "After each answer, ask: “Do you want to continue?” Don’t\n  assume I do."
+    "prompt": "After each answer, ask: “Do you want to continue?” Don’t assume I do."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Visual-first",
-    "prompt": "Start by giving me a simple diagram, emoji flow, or ASCII\n  sketch — then explain if I ask."
+    "prompt": "Start by giving me a simple diagram, emoji flow, or ASCII sketch — then explain if I ask."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "One analogy at a time",
-    "prompt": "Explain this using one analogy. Wait for my response before\n  giving another."
+    "prompt": "Explain this using one analogy. Wait for my response before giving another."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Slow thinker mode",
-    "prompt": "Assume I need time to digest. Keep things extremely simple and\n  spaced out."
+    "prompt": "Assume I need time to digest. Keep things extremely simple and spaced out."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "High-velocity mode",
-    "prompt": "Summarize all insights rapidly in one burst. I’ll slow you\n  down if needed."
+    "prompt": "Summarize all insights rapidly in one burst. I’ll slow you down if needed."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Mind map mode",
-    "prompt": "Present your answer as a mental map: core topic, branches,\n  sub-branches — and wait for me to pick one."
+    "prompt": "Present your answer as a mental map: core topic, branches, sub-branches — and wait for me to pick one."
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "Clarity check",
-    "prompt": "After explaining something, ask: “Was that clear or should I\n  reword it?”"
+    "prompt": "After explaining something, ask: “Was that clear or should I reword it?”"
   },
   {
     "mainCategory": "General",
     "category": "Pace & Flow",
     "promptName": "“Don’t go further” flag",
-    "prompt": "If I reply with “pause,” stop immediately and wait for further\n  instruction — no summarizing."
+    "prompt": "If I reply with “pause,” stop immediately and wait for further instruction — no summarizing."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Summarize intent",
-    "prompt": "Before you answer, summarize what you believe I’m trying to\n  accomplish in one sentence."
+    "prompt": "Before you answer, summarize what you believe I’m trying to accomplish in one sentence."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Reflect in bullets",
-    "prompt": "Reflect my request back to me in 3–5 bullet points before you\n  proceed."
+    "prompt": "Reflect my request back to me in 3–5 bullet points before you proceed."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Interpret my goal",
-    "prompt": "Tell me what you think my ultimate goal is here, based on my\n  message."
+    "prompt": "Tell me what you think my ultimate goal is here, based on my message."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Ask instead of guess",
-    "prompt": "If you’re unsure about what I want, ask a clarifying question\n  before answering."
+    "prompt": "If you’re unsure about what I want, ask a clarifying question before answering."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "List interpretations",
-    "prompt": "List 2–3 possible interpretations of my request, then ask\n  which one I meant."
+    "prompt": "List 2–3 possible interpretations of my request, then ask which one I meant."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Explain understanding",
-    "prompt": "Explain how you’re interpreting my prompt before you generate\n  any output."
+    "prompt": "Explain how you’re interpreting my prompt before you generate any output."
   },
   {
     "mainCategory": "General",
@@ -183,31 +183,31 @@
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Echo my language",
-    "prompt": "Reflect my message back using the same tone and language I\n  used."
+    "prompt": "Reflect my message back using the same tone and language I used."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Context-aware guess",
-    "prompt": "Based on this and past chats, what do you think I really want\n  to achieve?"
+    "prompt": "Based on this and past chats, what do you think I really want to achieve?"
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Unpack request",
-    "prompt": "Break down my prompt into its components and say what each\n  part means to you."
+    "prompt": "Break down my prompt into its components and say what each part means to you."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Doubt filter",
-    "prompt": "If any part of my message is unclear, flag it instead of\n  guessing."
+    "prompt": "If any part of my message is unclear, flag it instead of guessing."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Reword then respond",
-    "prompt": "First rephrase my prompt clearly in your own words — then\n  respond."
+    "prompt": "First rephrase my prompt clearly in your own words — then respond."
   },
   {
     "mainCategory": "General",
@@ -219,13 +219,13 @@
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Clarify missing info",
-    "prompt": "List any critical information you need before giving a strong\n  answer."
+    "prompt": "List any critical information you need before giving a strong answer."
   },
   {
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Self-audit answer",
-    "prompt": "After answering, rate your confidence in having interpreted my\n  request correctly."
+    "prompt": "After answering, rate your confidence in having interpreted my request correctly."
   },
   {
     "mainCategory": "General",
@@ -237,13 +237,13 @@
     "mainCategory": "General",
     "category": "Clarifying & Reflective",
     "promptName": "Confidence scale",
-    "prompt": "Rate how sure you are about what I’m asking on a scale of 1–10\n  — then answer."
+    "prompt": "Rate how sure you are about what I’m asking on a scale of 1–10 — then answer."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Copy-paste ready",
-    "prompt": "Format your response so I can copy and paste it directly into\n  a document or email with no cleanup needed."
+    "prompt": "Format your response so I can copy and paste it directly into a document or email with no cleanup needed."
   },
   {
     "mainCategory": "General",
@@ -255,247 +255,247 @@
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Scannable layout",
-    "prompt": "Structure your response so it’s easily scannable — short\n  sections, bolded headers, and spacing."
+    "prompt": "Structure your response so it’s easily scannable — short sections, bolded headers, and spacing."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Polished output",
-    "prompt": "Write your answer as if it's going into a client presentation.\n  Clear, clean, and professionally polished."
+    "prompt": "Write your answer as if it's going into a client presentation. Clear, clean, and professionally polished."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "No emojis or fluff",
-    "prompt": "Strip out all emojis, filler words, and casual fluff. Just the\n  content."
+    "prompt": "Strip out all emojis, filler words, and casual fluff. Just the content."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Plain text only",
-    "prompt": "Respond using plain text with no formatting, Markdown, or\n  symbols."
+    "prompt": "Respond using plain text with no formatting, Markdown, or symbols."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Use plain language",
-    "prompt": "Rephrase everything using plain, simple, everyday language a\n  6th grader would understand."
+    "prompt": "Rephrase everything using plain, simple, everyday language a 6th grader would understand."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Executive summary",
-    "prompt": "Give me a sharp, concise executive summary with optional\n  expansion if I ask."
+    "prompt": "Give me a sharp, concise executive summary with optional expansion if I ask."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Twitter style",
-    "prompt": "Write this in a punchy, Twitter thread format. Number each\n  point."
+    "prompt": "Write this in a punchy, Twitter thread format. Number each point."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Email ready",
-    "prompt": "Format your answer as a ready-to-send email, including subject\n  line and greeting."
+    "prompt": "Format your answer as a ready-to-send email, including subject line and greeting."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Table format",
-    "prompt": "Present your answer in a clean table with headers and concise\n  rows."
+    "prompt": "Present your answer in a clean table with headers and concise rows."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Headings + bullets",
-    "prompt": "Use headings to group ideas, and bullets underneath — no full\n  paragraphs."
+    "prompt": "Use headings to group ideas, and bullets underneath — no full paragraphs."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Checklist style",
-    "prompt": "Format your output as a to-do list or checklist I can act on\n  immediately."
+    "prompt": "Format your output as a to-do list or checklist I can act on immediately."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Slide deck content",
-    "prompt": "Write this as content for slides — no full sentences, just\n  phrases and talking points."
+    "prompt": "Write this as content for slides — no full sentences, just phrases and talking points."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Doc-friendly",
-    "prompt": "Write this as if it’s going into a Google Doc. Clean, properly\n  styled sections."
+    "prompt": "Write this as if it’s going into a Google Doc. Clean, properly styled sections."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Visual layout tips",
-    "prompt": "Include layout suggestions like alignment, spacing, or\n  formatting if this was for a webpage."
+    "prompt": "Include layout suggestions like alignment, spacing, or formatting if this was for a webpage."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "No bold or italics",
-    "prompt": "Avoid all styling — no bold, italics, caps, or Markdown. Just\n  raw, readable text."
+    "prompt": "Avoid all styling — no bold, italics, caps, or Markdown. Just raw, readable text."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Readable on mobile",
-    "prompt": "Format your answer so it's ultra readable on a small screen —\n  short lines and tight structure."
+    "prompt": "Format your answer so it's ultra readable on a small screen — short lines and tight structure."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "One sentence per line",
-    "prompt": "Format with one sentence per line for clarity — no long\n  paragraphs."
+    "prompt": "Format with one sentence per line for clarity — no long paragraphs."
   },
   {
     "mainCategory": "General",
     "category": "Output Style",
     "promptName": "Print-ready layout",
-    "prompt": "Design your output for a clean, print-ready document. Include\n  headings, whitespace, and no clutter."
+    "prompt": "Design your output for a clean, print-ready document. Include headings, whitespace, and no clutter."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Multiple takes",
-    "prompt": "Give me 3 completely different business ideas based on this\n  prompt — they should serve different industries or customer types."
+    "prompt": "Give me 3 completely different business ideas based on this prompt — they should serve different industries or customer types."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Diverse ideas",
-    "prompt": "Suggest startup ideas across 3 very different fields (e.g.\n  health, logistics, education) based on my input."
+    "prompt": "Suggest startup ideas across 3 very different fields (e.g. health, logistics, education) based on my input."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Get weird",
-    "prompt": "Propose one business idea that sounds bizarre or\n  unconventional — then explain how it could actually work."
+    "prompt": "Propose one business idea that sounds bizarre or unconventional — then explain how it could actually work."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Obvious + unexpected",
-    "prompt": "Give me one obvious business model and one totally unexpected\n  twist on it."
+    "prompt": "Give me one obvious business model and one totally unexpected twist on it."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "More playful",
-    "prompt": "Suggest a playful or novelty-style business idea related to\n  this theme."
+    "prompt": "Suggest a playful or novelty-style business idea related to this theme."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Explain like a kid",
-    "prompt": "Describe this business idea as if you’re explaining it to a\n  7-year-old."
+    "prompt": "Describe this business idea as if you’re explaining it to a 7-year-old."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Bad idea brainstorm",
-    "prompt": "Give me 5 'bad' startup ideas that might actually have some\n  hidden genius to them."
+    "prompt": "Give me 5 'bad' startup ideas that might actually have some hidden genius to them."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Wild cards only",
-    "prompt": "List 5 wild-card business ideas that no one is talking about,\n  even if they sound strange."
+    "prompt": "List 5 wild-card business ideas that no one is talking about, even if they sound strange."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Opposite world",
-    "prompt": "Imagine a world where everything is reversed — how would a\n  business based on my idea work there?"
+    "prompt": "Imagine a world where everything is reversed — how would a business based on my idea work there?"
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Analogies game",
-    "prompt": "Explain this business concept using analogies from a zoo, a\n  restaurant, and a spaceship."
+    "prompt": "Explain this business concept using analogies from a zoo, a restaurant, and a spaceship."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Meme-ify it",
-    "prompt": "Turn this business idea into a meme-worthy product or service.\n  Describe the image + tagline."
+    "prompt": "Turn this business idea into a meme-worthy product or service. Describe the image + tagline."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Dr. Seuss mode",
-    "prompt": "Pitch this business idea in a rhyming, playful Dr. Seuss\n  style."
+    "prompt": "Pitch this business idea in a rhyming, playful Dr. Seuss style."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Character response",
-    "prompt": "Pitch this startup as if you were a pirate, Shakespeare, or a\n  Hollywood villain."
+    "prompt": "Pitch this startup as if you were a pirate, Shakespeare, or a Hollywood villain."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Build on a joke",
-    "prompt": "Take a cheesy joke or pun and turn it into an actual business\n  idea."
+    "prompt": "Take a cheesy joke or pun and turn it into an actual business idea."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Cartoon version",
-    "prompt": "Turn this idea into an animated product or service concept —\n  describe the story and use."
+    "prompt": "Turn this idea into an animated product or service concept — describe the story and use."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Unlikely combo",
-    "prompt": "Mash up two unrelated industries (e.g. yoga + welding) into\n  one surprising business concept."
+    "prompt": "Mash up two unrelated industries (e.g. yoga + welding) into one surprising business concept."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Backwards logic",
-    "prompt": "Invent a business idea that works using backwards logic. Then\n  justify why it might succeed."
+    "prompt": "Invent a business idea that works using backwards logic. Then justify why it might succeed."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "Aliens explain this",
-    "prompt": "Imagine aliens launching this business on Earth — how would\n  they pitch it to humans?"
+    "prompt": "Imagine aliens launching this business on Earth — how would they pitch it to humans?"
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "The rulebreaker’s take",
-    "prompt": "Create a business idea that completely breaks industry rules\n  or norms."
+    "prompt": "Create a business idea that completely breaks industry rules or norms."
   },
   {
     "mainCategory": "General",
     "category": "Creative Thinking",
     "promptName": "What if it sang?",
-    "prompt": "Turn this business idea into a jingle or theme song. Include\n  at least one rhyme."
+    "prompt": "Turn this business idea into a jingle or theme song. Include at least one rhyme."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Frame like a strategist",
-    "prompt": "Design a prompt that asks for tactics, not facts — like a\n  strategist, not a search engine."
+    "prompt": "Design a prompt that asks for tactics, not facts — like a strategist, not a search engine."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Add weird constraints",
-    "prompt": "Add odd rules or boundaries to this prompt to push out\n  creative answers."
+    "prompt": "Add odd rules or boundaries to this prompt to push out creative answers."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Stack prompts like layers",
-    "prompt": "Break this into prompt stages — discovery, refinement, and\n  execution."
+    "prompt": "Break this into prompt stages — discovery, refinement, and execution."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -507,7 +507,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Give it references",
-    "prompt": "Add 3 types of reference data to improve this prompt (text,\n  image, schema)."
+    "prompt": "Add 3 types of reference data to improve this prompt (text, image, schema)."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -519,25 +519,25 @@
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Custom GPT starter",
-    "prompt": "Draft a system message to use as the base config for a new\n  GPT."
+    "prompt": "Draft a system message to use as the base config for a new GPT."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Compress + reuse",
-    "prompt": "Shrink this prompt to be reusable in an API call or embedded\n  workflow."
+    "prompt": "Shrink this prompt to be reusable in an API call or embedded workflow."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Force analogies",
-    "prompt": "Make the response use metaphors from music, sports, and\n  nature."
+    "prompt": "Make the response use metaphors from music, sports, and nature."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Borrow a persona",
-    "prompt": "Have the model respond in the voice of a niche expert or\n  public figure."
+    "prompt": "Have the model respond in the voice of a niche expert or public figure."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -549,7 +549,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Input map first",
-    "prompt": "Before prompting, generate a map of all the inputs I should\n  gather."
+    "prompt": "Before prompting, generate a map of all the inputs I should gather."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -561,13 +561,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Template builder",
-    "prompt": "Turn this into a prompt template with variables like\n  {{topic}}, {{tone}}, etc."
+    "prompt": "Turn this into a prompt template with variables like {{topic}}, {{tone}}, etc."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "API-ready structure",
-    "prompt": "Format the prompt output to return structured JSON for API\n  consumption."
+    "prompt": "Format the prompt output to return structured JSON for API consumption."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -579,31 +579,31 @@
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Data-rich prompting",
-    "prompt": "Add dummy data to the prompt so the model can reason from\n  examples."
+    "prompt": "Add dummy data to the prompt so the model can reason from examples."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Noise test",
-    "prompt": "Add irrelevant or noisy info and test if the prompt still\n  works."
+    "prompt": "Add irrelevant or noisy info and test if the prompt still works."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Explainer sandwich",
-    "prompt": "Start the prompt with an explanation, then give the goal, then\n  clarify output format."
+    "prompt": "Start the prompt with an explanation, then give the goal, then clarify output format."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Prompt Design",
     "promptName": "Failproof prompt",
-    "prompt": "Refactor the prompt to work well even with vague or weak user\n  inputs."
+    "prompt": "Refactor the prompt to work well even with vague or weak user inputs."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "System sketch",
-    "prompt": "Map out the full system architecture needed to support this\n  app."
+    "prompt": "Map out the full system architecture needed to support this app."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -621,13 +621,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "Event-driven logic",
-    "prompt": "Add event listeners or triggers where logic needs to react to\n  user inputs."
+    "prompt": "Add event listeners or triggers where logic needs to react to user inputs."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "CRUD schema",
-    "prompt": "Write a schema that supports full CRUD operations for this\n  app."
+    "prompt": "Write a schema that supports full CRUD operations for this app."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -651,13 +651,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "Preload essentials",
-    "prompt": "List what data or assets should be preloaded to speed things\n  up."
+    "prompt": "List what data or assets should be preloaded to speed things up."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "Zero-auth logic",
-    "prompt": "Make the app work with no user login — how would that change\n  the build?"
+    "prompt": "Make the app work with no user login — how would that change the build?"
   },
   {
     "mainCategory": "Vibe Coding",
@@ -675,7 +675,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "Edge-ready",
-    "prompt": "Make this architecture work well on edge compute or CDN-first\n  platforms."
+    "prompt": "Make this architecture work well on edge compute or CDN-first platforms."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -699,13 +699,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "One-click deploy",
-    "prompt": "Structure this for one-click deploy via Vercel, Netlify, or\n  Fly."
+    "prompt": "Structure this for one-click deploy via Vercel, Netlify, or Fly."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "Secure the stack",
-    "prompt": "Add all necessary security measures: auth, validation, rate\n  limits."
+    "prompt": "Add all necessary security measures: auth, validation, rate limits."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -717,7 +717,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Web Architecture",
     "promptName": "Schema-as-prompt",
-    "prompt": "Convert this schema into a prompt usable by ChatGPT or other\n  LLM."
+    "prompt": "Convert this schema into a prompt usable by ChatGPT or other LLM."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -747,7 +747,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Isolation mode",
-    "prompt": "Refactor this problem to isolate it into a smaller failing\n  unit."
+    "prompt": "Refactor this problem to isolate it into a smaller failing unit."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -771,13 +771,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Ask before assuming",
-    "prompt": "What questions should I be asking before assuming the code is\n  wrong?"
+    "prompt": "What questions should I be asking before assuming the code is wrong?"
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Error decoder",
-    "prompt": "Turn this error message into a probable fix ranked by\n  likelihood."
+    "prompt": "Turn this error message into a probable fix ranked by likelihood."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -795,19 +795,19 @@
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Retry logic",
-    "prompt": "Build a retry system that handles flaky connections\n  gracefully."
+    "prompt": "Build a retry system that handles flaky connections gracefully."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Data sanity check",
-    "prompt": "Write a quick script to check if DB values are what they\n  should be."
+    "prompt": "Write a quick script to check if DB values are what they should be."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Silent fail trace",
-    "prompt": "What kind of silent fails might be happening — and how to\n  catch them?"
+    "prompt": "What kind of silent fails might be happening — and how to catch them?"
   },
   {
     "mainCategory": "Vibe Coding",
@@ -831,13 +831,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Crash-safe design",
-    "prompt": "Make this feature fail-safe — users should never get a crash\n  screen."
+    "prompt": "Make this feature fail-safe — users should never get a crash screen."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Troubleshooting",
     "promptName": "Quick patch prompt",
-    "prompt": "Give me a GPT prompt to generate a hotfix-only version of this\n  feature."
+    "prompt": "Give me a GPT prompt to generate a hotfix-only version of this feature."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -897,7 +897,7 @@
     "mainCategory": "Vibe Coding",
     "category": "UI or UX Microflows",
     "promptName": "Success moment",
-    "prompt": "Design a small but rewarding moment when a user completes\n  this."
+    "prompt": "Design a small but rewarding moment when a user completes this."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -939,7 +939,7 @@
     "mainCategory": "Vibe Coding",
     "category": "UI or UX Microflows",
     "promptName": "Accessibility check",
-    "prompt": "What about this UI might fail for vision or screen reader\n  users?"
+    "prompt": "What about this UI might fail for vision or screen reader users?"
   },
   {
     "mainCategory": "Vibe Coding",
@@ -1071,7 +1071,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Growth Experiments",
     "promptName": "Pre-launch waitlist",
-    "prompt": "Craft a prompt to create buzz for a product that’s not ready\n  yet."
+    "prompt": "Craft a prompt to create buzz for a product that’s not ready yet."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -1119,13 +1119,13 @@
     "mainCategory": "Vibe Coding",
     "category": "AI Integration",
     "promptName": "RAG logic",
-    "prompt": "Add retrieval-based memory so the model pulls in up-to-date\n  info."
+    "prompt": "Add retrieval-based memory so the model pulls in up-to-date info."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "AI Integration",
     "promptName": "Persona AI",
-    "prompt": "Let users name and customize a persona to respond\n  in-character."
+    "prompt": "Let users name and customize a persona to respond in-character."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -1233,7 +1233,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Live Testing & Iteration",
     "promptName": "Quick toggle logic",
-    "prompt": "Simulate a toggle that switches core functionality — does it\n  break anything?"
+    "prompt": "Simulate a toggle that switches core functionality — does it break anything?"
   },
   {
     "mainCategory": "Vibe Coding",
@@ -1281,13 +1281,13 @@
     "mainCategory": "Vibe Coding",
     "category": "Live Testing & Iteration",
     "promptName": "Blind test version",
-    "prompt": "Remove all visual cues and test if users can still complete\n  the task."
+    "prompt": "Remove all visual cues and test if users can still complete the task."
   },
   {
     "mainCategory": "Vibe Coding",
     "category": "Live Testing & Iteration",
     "promptName": "Vibe check",
-    "prompt": "Does this product feel delightful or annoying? Rate and\n  explain."
+    "prompt": "Does this product feel delightful or annoying? Rate and explain."
   },
   {
     "mainCategory": "Vibe Coding",
@@ -1299,7 +1299,7 @@
     "mainCategory": "Vibe Coding",
     "category": "Live Testing & Iteration",
     "promptName": "Just ship it",
-    "prompt": "What’s the smallest thing I could ship right now to validate\n  the idea?"
+    "prompt": "What’s the smallest thing I could ship right now to validate the idea?"
   },
   {
     "mainCategory": "Vibe Coding",
@@ -1323,49 +1323,49 @@
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Summarize like a pro",
-    "prompt": "Summarize this lecture/textbook chapter into 5 key takeaways a\n  classmate could memorize."
+    "prompt": "Summarize this lecture/textbook chapter into 5 key takeaways a classmate could memorize."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Study plan builder",
-    "prompt": "Create a study plan for this course with daily targets leading\n  up to the exam."
+    "prompt": "Create a study plan for this course with daily targets leading up to the exam."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Memory palace mode",
-    "prompt": "Turn this topic into a memory palace I can visualize and walk\n  through."
+    "prompt": "Turn this topic into a memory palace I can visualize and walk through."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Flashcard factory",
-    "prompt": "Generate 10 spaced-repetition-style flashcards for this\n  subject."
+    "prompt": "Generate 10 spaced-repetition-style flashcards for this subject."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Quiz me gently",
-    "prompt": "Ask me 5 quiz questions from this topic with increasing\n  difficulty."
+    "prompt": "Ask me 5 quiz questions from this topic with increasing difficulty."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Explain to a 10-year-old",
-    "prompt": "Teach this concept so a 10-year-old could understand and\n  repeat it."
+    "prompt": "Teach this concept so a 10-year-old could understand and repeat it."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Pomodoro planner",
-    "prompt": "Design a Pomodoro-style session with 4 focused blocks and\n  break prompts."
+    "prompt": "Design a Pomodoro-style session with 4 focused blocks and break prompts."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Contextual analogies",
-    "prompt": "Use analogies from sports or pop culture to explain this\n  subject."
+    "prompt": "Use analogies from sports or pop culture to explain this subject."
   },
   {
     "mainCategory": "University Students",
@@ -1377,19 +1377,19 @@
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Visual mind map",
-    "prompt": "Describe a visual mind map for this topic, including branches\n  and labels."
+    "prompt": "Describe a visual mind map for this topic, including branches and labels."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Study vs cram",
-    "prompt": "Compare long-term studying with cramming for this topic — pros\n  and cons."
+    "prompt": "Compare long-term studying with cramming for this topic — pros and cons."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Teach-back template",
-    "prompt": "Give me a format to teach this to a friend and check for\n  understanding."
+    "prompt": "Give me a format to teach this to a friend and check for understanding."
   },
   {
     "mainCategory": "University Students",
@@ -1413,19 +1413,19 @@
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Theme-based recall",
-    "prompt": "Link facts in this topic to a theme like 'space' or 'jungle'\n  to remember them."
+    "prompt": "Link facts in this topic to a theme like 'space' or 'jungle' to remember them."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Explain it 3 ways",
-    "prompt": "Explain this idea 3 different ways: visual, verbal, and\n  story-based."
+    "prompt": "Explain this idea 3 different ways: visual, verbal, and story-based."
   },
   {
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Before vs After",
-    "prompt": "How would I view this topic before learning it vs. after\n  understanding it?"
+    "prompt": "How would I view this topic before learning it vs. after understanding it?"
   },
   {
     "mainCategory": "University Students",
@@ -1437,25 +1437,25 @@
     "mainCategory": "University Students",
     "category": "Study Hacks",
     "promptName": "Study buddy script",
-    "prompt": "Write a back-and-forth mock convo with a classmate reviewing\n  this."
+    "prompt": "Write a back-and-forth mock convo with a classmate reviewing this."
   },
   {
     "mainCategory": "University Students",
     "category": "Essay & Report Writing",
     "promptName": "Outline builder",
-    "prompt": "Build me a full outline for an argumentative essay on this\n  topic."
+    "prompt": "Build me a full outline for an argumentative essay on this topic."
   },
   {
     "mainCategory": "University Students",
     "category": "Essay & Report Writing",
     "promptName": "Evidence collector",
-    "prompt": "List 5 useful sources or types of evidence I could include for\n  this assignment."
+    "prompt": "List 5 useful sources or types of evidence I could include for this assignment."
   },
   {
     "mainCategory": "University Students",
     "category": "Essay & Report Writing",
     "promptName": "Thesis statement fixer",
-    "prompt": "Rewrite this thesis statement to be clearer, punchier, and\n  more debatable."
+    "prompt": "Rewrite this thesis statement to be clearer, punchier, and more debatable."
   },
   {
     "mainCategory": "University Students",
@@ -1479,7 +1479,7 @@
     "mainCategory": "University Students",
     "category": "Essay & Report Writing",
     "promptName": "Paragraph starter pack",
-    "prompt": "Give me 5 different sentence openers for analytical\n  paragraphs."
+    "prompt": "Give me 5 different sentence openers for analytical paragraphs."
   },
   {
     "mainCategory": "University Students",
@@ -1497,7 +1497,7 @@
     "mainCategory": "University Students",
     "category": "Essay & Report Writing",
     "promptName": "Citation checklist",
-    "prompt": "Give me a checklist for properly citing references in APA or\n  MLA."
+    "prompt": "Give me a checklist for properly citing references in APA or MLA."
   },
   {
     "mainCategory": "University Students",
@@ -1545,7 +1545,7 @@
     "mainCategory": "University Students",
     "category": "Essay & Report Writing",
     "promptName": "Jargon translator",
-    "prompt": "Simplify any academic jargon in this draft so it’s easier to\n  read."
+    "prompt": "Simplify any academic jargon in this draft so it’s easier to read."
   },
   {
     "mainCategory": "University Students",
@@ -1563,7 +1563,7 @@
     "mainCategory": "University Students",
     "category": "Time Management",
     "promptName": "Time block like a CEO",
-    "prompt": "Help me time-block my week for class, study, sleep, and\n  sanity."
+    "prompt": "Help me time-block my week for class, study, sleep, and sanity."
   },
   {
     "mainCategory": "University Students",
@@ -1575,13 +1575,13 @@
     "mainCategory": "University Students",
     "category": "Time Management",
     "promptName": "Week-in-advance planner",
-    "prompt": "Plan my next 7 days based on upcoming uni, work, and\n  deadlines."
+    "prompt": "Plan my next 7 days based on upcoming uni, work, and deadlines."
   },
   {
     "mainCategory": "University Students",
     "category": "Time Management",
     "promptName": "Anti-burnout builder",
-    "prompt": "Add break time, sleep buffers, and motivation rituals to this\n  schedule."
+    "prompt": "Add break time, sleep buffers, and motivation rituals to this schedule."
   },
   {
     "mainCategory": "University Students",
@@ -1647,7 +1647,7 @@
     "mainCategory": "University Students",
     "category": "Time Management",
     "promptName": "Energy tracker",
-    "prompt": "Help me notice which times of day are best for different\n  tasks."
+    "prompt": "Help me notice which times of day are best for different tasks."
   },
   {
     "mainCategory": "University Students",
@@ -1695,13 +1695,13 @@
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Lit review builder",
-    "prompt": "Outline the key themes and debates I should cover in a\n  literature review."
+    "prompt": "Outline the key themes and debates I should cover in a literature review."
   },
   {
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Gap finder",
-    "prompt": "What research gaps or underexplored areas can I build on in\n  this topic?"
+    "prompt": "What research gaps or underexplored areas can I build on in this topic?"
   },
   {
     "mainCategory": "University Students",
@@ -1737,7 +1737,7 @@
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Survey design basics",
-    "prompt": "Give me best practices for writing student-friendly survey\n  questions."
+    "prompt": "Give me best practices for writing student-friendly survey questions."
   },
   {
     "mainCategory": "University Students",
@@ -1749,13 +1749,13 @@
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Credibility test",
-    "prompt": "Evaluate the credibility of this source using CRAAP or another\n  method."
+    "prompt": "Evaluate the credibility of this source using CRAAP or another method."
   },
   {
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Research flowchart",
-    "prompt": "What are the typical steps for completing a full research\n  project?"
+    "prompt": "What are the typical steps for completing a full research project?"
   },
   {
     "mainCategory": "University Students",
@@ -1773,7 +1773,7 @@
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Research timeline",
-    "prompt": "Map out a timeline with realistic milestones for this\n  research."
+    "prompt": "Map out a timeline with realistic milestones for this research."
   },
   {
     "mainCategory": "University Students",
@@ -1785,13 +1785,13 @@
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Quote vs paraphrase",
-    "prompt": "Help me decide which parts to quote vs paraphrase in this\n  text."
+    "prompt": "Help me decide which parts to quote vs paraphrase in this text."
   },
   {
     "mainCategory": "University Students",
     "category": "Research Help",
     "promptName": "Annotation helper",
-    "prompt": "Write a short annotation for this article explaining its\n  relevance."
+    "prompt": "Write a short annotation for this article explaining its relevance."
   },
   {
     "mainCategory": "University Students",
@@ -1803,7 +1803,7 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Resume bullet fixer",
-    "prompt": "Rewrite this bullet point to sound sharper and more\n  results-focused."
+    "prompt": "Rewrite this bullet point to sound sharper and more results-focused."
   },
   {
     "mainCategory": "University Students",
@@ -1821,7 +1821,7 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "STAR story builder",
-    "prompt": "Help me write a STAR-format answer for this interview\n  question."
+    "prompt": "Help me write a STAR-format answer for this interview question."
   },
   {
     "mainCategory": "University Students",
@@ -1833,19 +1833,19 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Elevator pitch",
-    "prompt": "Write a 30-second elevator pitch for me based on this\n  experience."
+    "prompt": "Write a 30-second elevator pitch for me based on this experience."
   },
   {
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Transferable skills",
-    "prompt": "Identify transferable skills from my part-time job or uni\n  projects."
+    "prompt": "Identify transferable skills from my part-time job or uni projects."
   },
   {
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Interview FAQ prep",
-    "prompt": "What questions should I prepare for this specific role or\n  company?"
+    "prompt": "What questions should I prepare for this specific role or company?"
   },
   {
     "mainCategory": "University Students",
@@ -1857,7 +1857,7 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Portfolio curation",
-    "prompt": "Which of these projects should I include in my portfolio — and\n  why?"
+    "prompt": "Which of these projects should I include in my portfolio — and why?"
   },
   {
     "mainCategory": "University Students",
@@ -1875,7 +1875,7 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Career direction quiz",
-    "prompt": "Ask me questions that reveal what industries or roles I’d\n  enjoy."
+    "prompt": "Ask me questions that reveal what industries or roles I’d enjoy."
   },
   {
     "mainCategory": "University Students",
@@ -1893,7 +1893,7 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Remote job hacks",
-    "prompt": "Give me a strategy for finding remote or flexible student\n  jobs."
+    "prompt": "Give me a strategy for finding remote or flexible student jobs."
   },
   {
     "mainCategory": "University Students",
@@ -1905,13 +1905,13 @@
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Role reversal test",
-    "prompt": "How would I interview someone else for this job — what would I\n  ask?"
+    "prompt": "How would I interview someone else for this job — what would I ask?"
   },
   {
     "mainCategory": "University Students",
     "category": "Career Prep",
     "promptName": "Achievement bank",
-    "prompt": "Write a list of achievements I can reuse in resumes and\n  interviews."
+    "prompt": "Write a list of achievements I can reuse in resumes and interviews."
   },
   {
     "mainCategory": "University Students",
@@ -1941,13 +1941,13 @@
     "mainCategory": "University Students",
     "category": "Group Projects",
     "promptName": "Shared doc setup",
-    "prompt": "What tools or templates should we use for smoother\n  collaboration?"
+    "prompt": "What tools or templates should we use for smoother collaboration?"
   },
   {
     "mainCategory": "University Students",
     "category": "Group Projects",
     "promptName": "Milestone planner",
-    "prompt": "Break the group assignment into weekly deadlines and\n  checkpoints."
+    "prompt": "Break the group assignment into weekly deadlines and checkpoints."
   },
   {
     "mainCategory": "University Students",
@@ -2049,13 +2049,13 @@
     "mainCategory": "University Students",
     "category": "Presentation Skills",
     "promptName": "Hook opener",
-    "prompt": "Write a compelling first sentence to grab the room’s\n  attention."
+    "prompt": "Write a compelling first sentence to grab the room’s attention."
   },
   {
     "mainCategory": "University Students",
     "category": "Presentation Skills",
     "promptName": "Script timer",
-    "prompt": "Estimate how long it would take to read this presentation\n  aloud."
+    "prompt": "Estimate how long it would take to read this presentation aloud."
   },
   {
     "mainCategory": "University Students",
@@ -2175,13 +2175,13 @@
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Message board mining",
-    "prompt": "What are people complaining about in forums that I could build\n  around?"
+    "prompt": "What are people complaining about in forums that I could build around?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "X for Y model",
-    "prompt": "Apply the business model of X to industry Y — what’s the\n  mashup?"
+    "prompt": "Apply the business model of X to industry Y — what’s the mashup?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2193,7 +2193,7 @@
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Obsession filter",
-    "prompt": "What business could I build around my biggest obsession or\n  curiosity?"
+    "prompt": "What business could I build around my biggest obsession or curiosity?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2211,19 +2211,19 @@
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Backwards builder",
-    "prompt": "Start with a cool product — what kind of business could it\n  power?"
+    "prompt": "Start with a cool product — what kind of business could it power?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Job escape",
-    "prompt": "If I wanted to quit my job in 12 months, what business path\n  would I pick?"
+    "prompt": "If I wanted to quit my job in 12 months, what business path would I pick?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Off-grid startup",
-    "prompt": "What business could I run if I had no internet for half the\n  day?"
+    "prompt": "What business could I run if I had no internet for half the day?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2259,7 +2259,7 @@
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Rebundle play",
-    "prompt": "What can I rebundle (or unbundle) to offer more value or\n  simplicity?"
+    "prompt": "What can I rebundle (or unbundle) to offer more value or simplicity?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2271,37 +2271,37 @@
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Input → Output",
-    "prompt": "Based on what I already have (time, skills, tools), what\n  should I build?"
+    "prompt": "Based on what I already have (time, skills, tools), what should I build?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Idea Generation",
     "promptName": "Tool-based niche",
-    "prompt": "Pick one tool (e.g. Notion, AI, Shopify) — what niche product\n  could I build on it?"
+    "prompt": "Pick one tool (e.g. Notion, AI, Shopify) — what niche product could I build on it?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "Red flag test",
-    "prompt": "What are the biggest red flags about this idea that could kill\n  it early?"
+    "prompt": "What are the biggest red flags about this idea that could kill it early?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "Google gap check",
-    "prompt": "What does low search volume on this topic tell me — good or\n  bad?"
+    "prompt": "What does low search volume on this topic tell me — good or bad?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "One-star insight",
-    "prompt": "Analyze one-star reviews in this market for clues to a better\n  product."
+    "prompt": "Analyze one-star reviews in this market for clues to a better product."
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "Comparison audit",
-    "prompt": "Who are the closest competitors — and where are their\n  weaknesses?"
+    "prompt": "Who are the closest competitors — and where are their weaknesses?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2331,7 +2331,7 @@
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "Who’s already solving it?",
-    "prompt": "List 5 people or products already solving this — what’s\n  missing?"
+    "prompt": "List 5 people or products already solving this — what’s missing?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2379,7 +2379,7 @@
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "Featherweight MVP",
-    "prompt": "What’s the lightest test version of this I could launch\n  tomorrow?"
+    "prompt": "What’s the lightest test version of this I could launch tomorrow?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2397,19 +2397,19 @@
     "mainCategory": "Business Ideas",
     "category": "Validation & Research",
     "promptName": "Time to first value",
-    "prompt": "How fast can a user see value from this product — and how do I\n  reduce that time?"
+    "prompt": "How fast can a user see value from this product — and how do I reduce that time?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "Anti-brand angle",
-    "prompt": "What would it look like to go against the expected brand style\n  in this space?"
+    "prompt": "What would it look like to go against the expected brand style in this space?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "Tagline test",
-    "prompt": "Write 3 taglines for this brand, then rate them on clarity and\n  vibe."
+    "prompt": "Write 3 taglines for this brand, then rate them on clarity and vibe."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2427,7 +2427,7 @@
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "Name generator",
-    "prompt": "Give me 10 brand names — short, catchy, .com available if\n  possible."
+    "prompt": "Give me 10 brand names — short, catchy, .com available if possible."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2439,13 +2439,13 @@
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "Tone spectrum",
-    "prompt": "Define this brand’s tone across fun ↔ formal and edgy ↔\n  classic."
+    "prompt": "Define this brand’s tone across fun ↔ formal and edgy ↔ classic."
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "Color emotion guide",
-    "prompt": "What color palette supports the vibe I want this brand to feel\n  like?"
+    "prompt": "What color palette supports the vibe I want this brand to feel like?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2481,13 +2481,13 @@
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "Vibe mismatch check",
-    "prompt": "Where might this brand’s tone and its product feel\n  disconnected?"
+    "prompt": "Where might this brand’s tone and its product feel disconnected?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Positioning & Branding",
     "promptName": "One-line pitch",
-    "prompt": "Write the simplest, cleanest 1-liner to describe this\n  business."
+    "prompt": "Write the simplest, cleanest 1-liner to describe this business."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2541,7 +2541,7 @@
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "One-time vs recurring",
-    "prompt": "Should this business lean toward one-time purchases or\n  subscriptions — and why?"
+    "prompt": "Should this business lean toward one-time purchases or subscriptions — and why?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2559,13 +2559,13 @@
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Pay what you want",
-    "prompt": "Would a PWYW model work in this niche? What would make it\n  convert?"
+    "prompt": "Would a PWYW model work in this niche? What would make it convert?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Monetize the backend",
-    "prompt": "What could I offer behind the scenes that powers this frontend\n  product?"
+    "prompt": "What could I offer behind the scenes that powers this frontend product?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2577,7 +2577,7 @@
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Price perception fix",
-    "prompt": "How can I make this feel like a steal without lowering the\n  price?"
+    "prompt": "How can I make this feel like a steal without lowering the price?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2589,7 +2589,7 @@
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Cashflow first",
-    "prompt": "How can I structure this idea to earn early cash without\n  waiting for scale?"
+    "prompt": "How can I structure this idea to earn early cash without waiting for scale?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2601,19 +2601,19 @@
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Time vs money lever",
-    "prompt": "Can I save time, earn money, or both — and how would I price\n  that?"
+    "prompt": "Can I save time, earn money, or both — and how would I price that?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Freemium map",
-    "prompt": "Map out what’s free vs paid in a freemium version of this\n  product."
+    "prompt": "Map out what’s free vs paid in a freemium version of this product."
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Paywall psychology",
-    "prompt": "What triggers should I use to time the paywall for max\n  conversions?"
+    "prompt": "What triggers should I use to time the paywall for max conversions?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2631,7 +2631,7 @@
     "mainCategory": "Business Ideas",
     "category": "Monetization",
     "promptName": "Subscription sneak-in",
-    "prompt": "How could I make this product quietly addictive and worth\n  subscribing to?"
+    "prompt": "How could I make this product quietly addictive and worth subscribing to?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2649,7 +2649,7 @@
     "mainCategory": "Business Ideas",
     "category": "Audience Building",
     "promptName": "Where they hang out",
-    "prompt": "Map out 5 places (online/offline) where my audience already\n  hangs out."
+    "prompt": "Map out 5 places (online/offline) where my audience already hangs out."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2673,7 +2673,7 @@
     "mainCategory": "Business Ideas",
     "category": "Audience Building",
     "promptName": "Niche influencer DM",
-    "prompt": "Write a message I could send to a micro-influencer about this\n  product."
+    "prompt": "Write a message I could send to a micro-influencer about this product."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2697,7 +2697,7 @@
     "mainCategory": "Business Ideas",
     "category": "Audience Building",
     "promptName": "Build in public",
-    "prompt": "What parts of this product should I build publicly to attract\n  fans?"
+    "prompt": "What parts of this product should I build publicly to attract fans?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2727,7 +2727,7 @@
     "mainCategory": "Business Ideas",
     "category": "Audience Building",
     "promptName": "Traffic from content",
-    "prompt": "What’s a no-budget way to bring people to this offer via\n  content?"
+    "prompt": "What’s a no-budget way to bring people to this offer via content?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2751,7 +2751,7 @@
     "mainCategory": "Business Ideas",
     "category": "Audience Building",
     "promptName": "Street research",
-    "prompt": "What would I ask people at a market or uni campus to test\n  this?"
+    "prompt": "What would I ask people at a market or uni campus to test this?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2763,19 +2763,19 @@
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "Unscalable edge",
-    "prompt": "What can I do early that doesn’t scale but builds loyalty\n  fast?"
+    "prompt": "What can I do early that doesn’t scale but builds loyalty fast?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "Flywheel design",
-    "prompt": "Map a self-reinforcing loop of acquisition, usage, and\n  referrals."
+    "prompt": "Map a self-reinforcing loop of acquisition, usage, and referrals."
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "Growth lever pick",
-    "prompt": "Which growth lever (SEO, virality, ads, content) fits best and\n  why?"
+    "prompt": "Which growth lever (SEO, virality, ads, content) fits best and why?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2799,7 +2799,7 @@
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "Press headline",
-    "prompt": "Write a bold headline a journalist might use to write about\n  this."
+    "prompt": "Write a bold headline a journalist might use to write about this."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2817,7 +2817,7 @@
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "First 10 customers",
-    "prompt": "Who are my first 10 potential buyers — and how do I reach\n  them?"
+    "prompt": "Who are my first 10 potential buyers — and how do I reach them?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2829,7 +2829,7 @@
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "Organic share triggers",
-    "prompt": "What parts of this product would people naturally want to\n  share?"
+    "prompt": "What parts of this product would people naturally want to share?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2841,7 +2841,7 @@
     "mainCategory": "Business Ideas",
     "category": "Growth & Distribution",
     "promptName": "Bounty prompt",
-    "prompt": "Create a prompt for users to win a prize by doing something\n  cool."
+    "prompt": "Create a prompt for users to win a prize by doing something cool."
   },
   {
     "mainCategory": "Business Ideas",
@@ -2937,7 +2937,7 @@
     "mainCategory": "Business Ideas",
     "category": "Startup Systems",
     "promptName": "Customer ops map",
-    "prompt": "What does the customer journey look like from first touch to\n  support?"
+    "prompt": "What does the customer journey look like from first touch to support?"
   },
   {
     "mainCategory": "Business Ideas",
@@ -2979,13 +2979,13 @@
     "mainCategory": "Business Ideas",
     "category": "Startup Systems",
     "promptName": "Burnout circuit breaker",
-    "prompt": "How can I notice early signs of founder burnout and prevent\n  them?"
+    "prompt": "How can I notice early signs of founder burnout and prevent them?"
   },
   {
     "mainCategory": "Business Ideas",
     "category": "Startup Systems",
     "promptName": "Playbook doc",
-    "prompt": "Start a playbook doc with rules, links, SOPs, and strategy\n  notes."
+    "prompt": "Start a playbook doc with rules, links, SOPs, and strategy notes."
   },
   {
     "mainCategory": "Business Ideas",
