@@ -119,6 +119,12 @@
     "promptName": "Invert Perspective",
     "prompt": "Flip this answer: what’s the opposite POV or downside?"
   },
+    {
+    "mainCategory": "General",
+    "category": "Output Control",
+    "promptName": "Step-by-Step",
+    "prompt": "Explain this to me step by step like I'm new to it. Pause after each step so I can confirm before moving on."
+  },
   {
     "mainCategory": "General",
     "category": "Learning & Practice",
