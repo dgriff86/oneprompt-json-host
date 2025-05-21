@@ -1,0 +1,1436 @@
+[
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt Flow Engine",
+    "prompt": "Build a prompt that takes inputs and routes logic across 3 conditional branches."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Layered Prompt Design",
+    "prompt": "Create a multi-tiered prompt system with user input, logic gate, and fallback layer."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt OS Blueprint",
+    "prompt": "Write a system that allows managing and versioning multiple prompt styles across workflows."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Feedback-Driven Loop",
+    "prompt": "Design a prompt that asks GPT to rate its output and revise until a target score is met."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Composable Prompt Parts",
+    "prompt": "Write modular prompt snippets that can be reused and chained into larger workflows."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt Sandbox Mode",
+    "prompt": "Create a safe test environment prompt for evaluating risky code outputs."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Role-Switch Trigger",
+    "prompt": "Generate a prompt that lets the AI switch persona based on flagged keywords."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt Auto-Tuner",
+    "prompt": "Design a system that iteratively optimizes prompts for tone, length, and clarity."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Fail-Safe Fallback Prompt",
+    "prompt": "Write a secondary prompt that only activates if the primary one fails or returns low confidence."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Template Debug Mode",
+    "prompt": "Create a prompt that overlays inline commentary to debug prompt logic live."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "One-Liner Generator",
+    "prompt": "Prompt GPT to turn this code snippet into a one-line version without losing clarity."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "MVP Builder Prompt",
+    "prompt": "Generate the minimal version of this app that proves the core interaction."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Debug Sprint Prompt",
+    "prompt": "Write a prompt that diagnoses and fixes 3 bugs from a codebase snippet."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Rapid UI Sketch",
+    "prompt": "Prompt GPT to sketch a wireframe in HTML/CSS based on 3 bullet features."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Dev Moodboard Prompt",
+    "prompt": "Ask GPT to describe a dev moodboard for a playful, dark-mode dashboard app."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Creative Constraint Prompt",
+    "prompt": "Build a working UI component using only 4 properties and 2 lines of CSS."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "API-First Flow",
+    "prompt": "Write a prompt that reverse-engineers a UI from a given API endpoint."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Code-to-Content Prompt",
+    "prompt": "Turn this utility function into a short doc and onboarding snippet."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Alt Platform Prompt",
+    "prompt": "Generate a working version of this app in a no-code tool like Webflow or Glide."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Rebrand as Game",
+    "prompt": "Take this onboarding flow and reframe it as a gamified challenge sequence."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt to Prompt",
+    "prompt": "Create a prompt that generates prompts for newsletter marketing."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Format Analyzer",
+    "prompt": "Write a prompt that checks other prompts for input clarity, role tone, and output structure."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Style Guide",
+    "prompt": "Generate a reusable style guide for tone, formatting, and function for prompts across a team."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Recursive Evaluator",
+    "prompt": "Design a prompt that critiques itself after every third execution."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Formatter Bot",
+    "prompt": "Create a prompt that formats rough notes into clean, publishable prompt libraries."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Output Ranker",
+    "prompt": "Ask GPT to return 5 outputs and rank them from best to worst based on clarity and creativity."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Debater",
+    "prompt": "Design a prompt where two versions of GPT debate the best way to write a given prompt."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Simulated Feedback Prompt",
+    "prompt": "Have GPT generate feedback from 3 personas on a proposed prompt idea."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Chain Evaluator",
+    "prompt": "Write a prompt that maps the logic tree of a 3-step prompt system."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Style Swapper",
+    "prompt": "Take one prompt and rewrite it in the styles of 3 known creators."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt Flow Engine",
+    "prompt": "Build a prompt that takes inputs and routes logic across 3 conditional branches."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Layered Prompt Design",
+    "prompt": "Create a multi-tiered prompt system with user input, logic gate, and fallback layer."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt OS Blueprint",
+    "prompt": "Write a system that allows managing and versioning multiple prompt styles across workflows."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Feedback-Driven Loop",
+    "prompt": "Design a prompt that asks GPT to rate its output and revise until a target score is met."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Composable Prompt Parts",
+    "prompt": "Write modular prompt snippets that can be reused and chained into larger workflows."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt Sandbox Mode",
+    "prompt": "Create a safe test environment prompt for evaluating risky code outputs."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Role-Switch Trigger",
+    "prompt": "Generate a prompt that lets the AI switch persona based on flagged keywords."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Prompt Auto-Tuner",
+    "prompt": "Design a system that iteratively optimizes prompts for tone, length, and clarity."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Fail-Safe Fallback Prompt",
+    "prompt": "Write a secondary prompt that only activates if the primary one fails or returns low confidence."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt Systems Design",
+    "promptName": "Template Debug Mode",
+    "prompt": "Create a prompt that overlays inline commentary to debug prompt logic live."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "One-Liner Generator",
+    "prompt": "Prompt GPT to turn this code snippet into a one-line version without losing clarity."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "MVP Builder Prompt",
+    "prompt": "Generate the minimal version of this app that proves the core interaction."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Debug Sprint Prompt",
+    "prompt": "Write a prompt that diagnoses and fixes 3 bugs from a codebase snippet."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Rapid UI Sketch",
+    "prompt": "Prompt GPT to sketch a wireframe in HTML/CSS based on 3 bullet features."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Dev Moodboard Prompt",
+    "prompt": "Ask GPT to describe a dev moodboard for a playful, dark-mode dashboard app."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Creative Constraint Prompt",
+    "prompt": "Build a working UI component using only 4 properties and 2 lines of CSS."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "API-First Flow",
+    "prompt": "Write a prompt that reverse-engineers a UI from a given API endpoint."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Code-to-Content Prompt",
+    "prompt": "Turn this utility function into a short doc and onboarding snippet."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Alt Platform Prompt",
+    "prompt": "Generate a working version of this app in a no-code tool like Webflow or Glide."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Creative Dev Ops",
+    "promptName": "Rebrand as Game",
+    "prompt": "Take this onboarding flow and reframe it as a gamified challenge sequence."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt to Prompt",
+    "prompt": "Create a prompt that generates prompts for newsletter marketing."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Format Analyzer",
+    "prompt": "Write a prompt that checks other prompts for input clarity, role tone, and output structure."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Style Guide",
+    "prompt": "Generate a reusable style guide for tone, formatting, and function for prompts across a team."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Recursive Evaluator",
+    "prompt": "Design a prompt that critiques itself after every third execution."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Formatter Bot",
+    "prompt": "Create a prompt that formats rough notes into clean, publishable prompt libraries."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Output Ranker",
+    "prompt": "Ask GPT to return 5 outputs and rank them from best to worst based on clarity and creativity."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Debater",
+    "prompt": "Design a prompt where two versions of GPT debate the best way to write a given prompt."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Simulated Feedback Prompt",
+    "prompt": "Have GPT generate feedback from 3 personas on a proposed prompt idea."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Chain Evaluator",
+    "prompt": "Write a prompt that maps the logic tree of a 3-step prompt system."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Meta Prompting",
+    "promptName": "Prompt Style Swapper",
+    "prompt": "Take one prompt and rewrite it in the styles of 3 known creators."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "1-Liner to App",
+    "prompt": "Write a prompt that turns a one-line idea into a deployable app scaffold."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Copy to Frontend",
+    "prompt": "Prompt GPT to generate a landing page UI from a mission statement and brand vibe."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to Component Library",
+    "prompt": "Write a prompt that outputs 5 styled UI components for a startup dashboard."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to API",
+    "prompt": "Create a prompt that outputs a RESTful API design from user needs."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to Flowchart",
+    "prompt": "Generate a visual flowchart from user goals and constraints described in plain text."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt Stack Planner",
+    "prompt": "Write a prompt that recommends a full stack (frontend/backend/tools) for a new build."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to Metrics Plan",
+    "prompt": "Generate key success metrics for a product concept based on goals and stage."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to Persona Pages",
+    "prompt": "Create a prompt that builds separate pages for 3 user personas from one brief."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to CMS Layout",
+    "prompt": "Generate a CMS layout and schema based on content types and team roles."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Prompt-to-Product Workflows",
+    "promptName": "Prompt to Launch Plan",
+    "prompt": "Write a prompt that outputs a product launch sequence, timeline, and checklist."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Style Translator Prompt",
+    "prompt": "Convert this blog intro into formats: tweet, slogan, hero text, script."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Tone Splitter",
+    "prompt": "Rewrite this prompt in 5 tones: sarcastic, academic, inspirational, blunt, poetic."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Cross-Tool Prompt Adapter",
+    "prompt": "Turn this GPT-4 prompt into one optimized for Claude or Mistral."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Multi-Language Prompt Rewriter",
+    "prompt": "Translate this GPT prompt into JS, Python, and Bash for command-line tasks."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Prompt Genre Swap",
+    "prompt": "Take this instructional prompt and reframe it as: a game quest, a poem, and a legal doc."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "UI Style Mixer",
+    "prompt": "Generate 3 UI versions from one layout: Brutalist, Neobrutalist, and Soft UX."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Brand Perspective Flip",
+    "prompt": "Write 3 versions of this prompt: founder, customer, investor."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Medium Port Prompt",
+    "prompt": "Convert this YouTube script into a Medium article with section headers."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Code Commentary Mode",
+    "prompt": "Rewrite this code with inline commentary explaining architecture decisions."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Codex Remixing",
+    "promptName": "Prompt Upgrade Wizard",
+    "prompt": "Take this outdated prompt and modernize it with current tools and libraries."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Simulate Expert Critique",
+    "prompt": "Prompt GPT to roleplay as a senior dev reviewing your codebase for clarity and architecture."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Emotional Mirror Prompt",
+    "prompt": "Write a prompt that simulates how a therapist might reflect on a product founder's stress."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "VC Pitch Simulator",
+    "prompt": "Have GPT respond as an investor reviewing your pitch deck with probing questions."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "First-Time User Simulator",
+    "prompt": "Prompt GPT to test your app as a confused, non-technical user and narrate experience."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Tone Role Mapper",
+    "prompt": "Have GPT generate different writing styles for the same content: Gen Z, CTO, UX writer."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "User Journey Narrator",
+    "prompt": "Write a prompt where GPT tells a story of a user onboarding to your product in first person."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Critical Friend Prompt",
+    "prompt": "Simulate a friend who challenges all your assumptions but supports your growth."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Audience Empathy Builder",
+    "prompt": "Have GPT describe your product from the point of view of a skeptic, loyalist, and newcomer."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Prompt as Mentor",
+    "prompt": "Write a prompt that simulates an AI mentor asking reflective questions after each session."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Persona-Led Prompting",
+    "promptName": "Role Combo Prompt",
+    "prompt": "Mix two roles (CEO + coder) and generate insight in both voices about a product direction."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Site Vibe Audit",
+    "prompt": "Prompt GPT to evaluate how the visual tone of your site matches its product promise."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Onboarding Flow Critique",
+    "prompt": "Write a prompt to critique and enhance an onboarding journey using UX principles."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Feature to Emotion",
+    "prompt": "Create a prompt that maps product features to emotional benefits and outcomes."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Journey Map Prompt",
+    "prompt": "Have GPT narrate a multi-touch customer journey from first ad to product use."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "UX Friction Finder",
+    "prompt": "Prompt GPT to identify confusing or effortful steps in a user flow and suggest fixes."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Retention Narrative Prompt",
+    "prompt": "Write a prompt that constructs a user story arc where retention is a natural outcome."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Experience Layer Prompter",
+    "prompt": "Generate prompts for: interface layer, interaction layer, feedback layer."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Design Feeling Prompt",
+    "prompt": "Ask GPT to describe the emotional arc users should feel while navigating your product."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Delight Injection Prompt",
+    "prompt": "Create a prompt that adds surprise/delight moments to each screen or step."
+  },
+  {
+    "mainCategory": "My Prompts",
+    "category": "Experience Architecture",
+    "promptName": "Microcopy Mood Shaper",
+    "prompt": "Prompt GPT to tune microcopy for tone: encouraging, cheeky, or calming."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt to Component",
+    "prompt": "Write a prompt that generates a React component for a toggleable dark/light mode switch."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Refactor Prompt",
+    "prompt": "Take this long prompt and break it into modular, testable parts with named variables."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt Tone Tuner",
+    "prompt": "Given this prompt, rewrite it in 3 tones: technical, casual, and poetic."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt Memory Embed",
+    "prompt": "Design a prompt that ensures consistent output tone across multiple user sessions."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt Feedback Loop",
+    "prompt": "Write a prompt that asks GPT to critique and improve the previous output."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Hidden Prompt Layers",
+    "prompt": "Create a multi-step prompt that embeds sub-tasks within a narrative setup."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Format Enforcer",
+    "prompt": "Write a prompt that forces output in CSV format with headers: title, summary, tags."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Code Comment Prompt",
+    "prompt": "Design a prompt to auto-generate JSDoc comments from a given function."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Style Constraint Prompt",
+    "prompt": "Prompt GPT to only write code in a minimalist CSS style with 3 variables."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Interactive Prompt System",
+    "prompt": "Build a chained prompt system that takes user input and generates a micro-site in 3 steps."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt Audit Tool",
+    "prompt": "Create a prompt that evaluates other prompts for ambiguity, tone, and verbosity."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Token Budget Prompt",
+    "prompt": "Design a prompt that keeps GPT responses under 300 tokens for mobile apps."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt Splitter",
+    "prompt": "Write a prompt that divides long user queries into a summary and 3 sub-tasks."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt as Story",
+    "prompt": "Turn this instruction into a short story that ends with a clear call to action."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Promptbuilding",
+    "promptName": "Prompt Versioning",
+    "prompt": "Develop a naming system for tracking iterative changes to prompts over time."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Architecture Blueprint",
+    "prompt": "Ask GPT to outline a system architecture for a real-time chat app with WebSockets."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "API Flow Mapper",
+    "prompt": "Prompt GPT to draw a sequence of API calls for a multi-step signup process."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Scalable Design Prompt",
+    "prompt": "Design a prompt to evaluate if a system is scalable under 10x traffic."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Front/Back Split Prompt",
+    "prompt": "Ask GPT to separate front-end and back-end concerns from a product description."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Security First Prompt",
+    "prompt": "Generate a prompt to evaluate the security risks in this codebase."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Async Workflow Prompter",
+    "prompt": "Design a prompt that maps async flow using queues, jobs, and notifications."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "DB Schema Generator",
+    "prompt": "Prompt GPT to design a normalized database schema from this app idea."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Caching Strategy Prompt",
+    "prompt": "Ask GPT to suggest caching layers and invalidation rules for this API."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Microservices Split Prompt",
+    "prompt": "Split this monolith into microservices, then write one service's OpenAPI schema."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Prompt for Infra Map",
+    "prompt": "Generate infrastructure map prompts for Vercel + Supabase + Cron jobs setup."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Rate Limit Prompt",
+    "prompt": "Design a prompt to simulate how users would hit API rate limits under scale."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "CI/CD Prompt",
+    "prompt": "Build a prompt that defines a full CI/CD pipeline for testing, build, and deploy."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "State Management Prompt",
+    "prompt": "Ask GPT to compare 3 state management strategies for a dashboard app."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Cost Forecasting Prompt",
+    "prompt": "Prompt GPT to estimate cloud costs for this app using monthly active users."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Systems Architecture (Prompted)",
+    "promptName": "Fallback Logic Prompt",
+    "prompt": "Write a prompt that designs fallback systems when external APIs go down."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "SEO Audit Prompt",
+    "prompt": "Ask GPT to perform a basic SEO audit on a given homepage text."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Meta Generator",
+    "prompt": "Create a prompt that generates optimized meta titles and descriptions for a product page."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Content Gap Finder",
+    "prompt": "Prompt GPT to analyze blog topics and identify SEO content gaps."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Internal Linking Strategy",
+    "prompt": "Generate a prompt to suggest an internal link map for a 10-post blog."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Top Keywords Prompter",
+    "prompt": "Write a prompt that finds 10 long-tail keywords from a seed topic."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "SEO Rewrite Prompt",
+    "prompt": "Create a prompt to rewrite content to include specific keywords without keyword stuffing."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Schema Generator",
+    "prompt": "Prompt GPT to output JSON-LD schema.org markup for a local business."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Sitemap Planner",
+    "prompt": "Ask GPT to map a sitemap for a SaaS product site focused on SEO clarity."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Competitive SEO Prompt",
+    "prompt": "Create a prompt to reverse-engineer a competitor's SEO strategy."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Rank Tracking Prompt",
+    "prompt": "Prompt GPT to design a basic rank tracking sheet and suggest metrics."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Headline A/B Prompter",
+    "prompt": "Design a prompt to generate and A/B test 5 SEO blog titles."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Search Intent Mapper",
+    "prompt": "Ask GPT to classify queries by intent and recommend content types."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Keyword Cluster Prompt",
+    "prompt": "Prompt GPT to group keywords into clusters with topic names."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Canonical Fix Prompt",
+    "prompt": "Write a prompt that suggests canonical tag strategies for blog and product overlap."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Unlock SEO",
+    "promptName": "Evergreen Content Prompt",
+    "prompt": "Create a prompt to ideate SEO content with long-term traffic potential."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "UX Flow Prompt",
+    "prompt": "Prompt GPT to evaluate site user flow and suggest improvements for clarity."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "CTA Evaluation Prompt",
+    "prompt": "Ask GPT to critique and rewrite the main CTAs for better conversion."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Page Load Diagnoser",
+    "prompt": "Design a prompt to analyze causes of slow load time from HTML/CSS snippets."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Accessibility Audit Prompt",
+    "prompt": "Write a prompt that identifies accessibility issues in a given site layout."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Mobile First Prompt",
+    "prompt": "Prompt GPT to suggest mobile-first improvements for this desktop-first layout."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Navigation Prompt",
+    "prompt": "Generate a prompt that evaluates nav hierarchy for user comprehension."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Visual Hierarchy Prompt",
+    "prompt": "Create a prompt to analyze the visual hierarchy of a landing page."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Content Redundancy Checker",
+    "prompt": "Write a prompt that identifies duplicate or redundant blocks of content."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Font Audit Prompt",
+    "prompt": "Prompt GPT to evaluate font choices for legibility and tone."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Color Contrast Prompt",
+    "prompt": "Ask GPT to test and score color contrast ratios across a site palette."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Trust Signal Review",
+    "prompt": "Write a prompt to check for missing trust signals (testimonials, logos, etc)."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Image Optimization Prompt",
+    "prompt": "Prompt GPT to suggest how to compress and optimize images without quality loss."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Layout Flexibility Prompt",
+    "prompt": "Create a prompt that evaluates a site's responsiveness across devices."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Tone Consistency Prompt",
+    "prompt": "Write a prompt that checks if site tone stays consistent from page to page."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Site Audits (Prompted)",
+    "promptName": "Footer Utility Prompt",
+    "prompt": "Ask GPT to analyze the utility and clarity of the site's footer structure."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Hallucination Catcher",
+    "prompt": "Write a prompt to detect hallucinated content in AI output."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Prompt Chain Explainer",
+    "prompt": "Prompt GPT to explain each step it took in a multi-prompt chain."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Output Consistency Checker",
+    "prompt": "Create a prompt that re-runs a task multiple times to test for consistent output."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Misalignment Diagnoser",
+    "prompt": "Ask GPT to explain why a prompt may not be fulfilling its original intent."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Test Case Prompter",
+    "prompt": "Design a prompt to generate test cases for validating AI output."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Prompt Simplifier",
+    "prompt": "Write a prompt that reduces verbosity without losing functionality."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Tone Drift Finder",
+    "prompt": "Create a prompt to compare tonal shifts across 3 AI outputs."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Schema Mismatch Finder",
+    "prompt": "Prompt GPT to find structural inconsistencies in JSON or HTML output."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Multimodal Prompt Debugger",
+    "prompt": "Design a prompt that checks if visual + text inputs are being correctly interpreted."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Prompt Stress Tester",
+    "prompt": "Ask GPT to push a prompt to edge cases and document failure points."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Response Quality Filter",
+    "prompt": "Write a prompt that rates AI responses by clarity, completeness, and creativity."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Prompt Shortener",
+    "prompt": "Create a prompt that rewrites long prompts under 200 characters."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Prompt Intent Mapper",
+    "prompt": "Ask GPT to visualize the task tree implied by a complex prompt."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt Debugging",
+    "promptName": "Debug Log Generator",
+    "prompt": "Design a prompt that produces a line-by-line reasoning log for any task."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Design Token Generator",
+    "prompt": "Prompt GPT to output a design token JSON structure for colors, fonts, and spacing."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "UI Consistency Checker",
+    "prompt": "Ask GPT to compare two Figma component names and check for style mismatches."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Accessibility-First Prompt",
+    "prompt": "Create a prompt to build a UI library with accessibility baked in."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Component Naming Prompt",
+    "prompt": "Prompt GPT to suggest semantic and scalable naming for UI components."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Dark Mode Rules Prompt",
+    "prompt": "Write a prompt to define light/dark theming rules across a design system."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Atomic Hierarchy Prompter",
+    "prompt": "Generate prompts to enforce atomic design principles in new components."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Brand Visual DNA Prompt",
+    "prompt": "Ask GPT to describe a brand’s visual language and translate to design rules."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Grid System Prompter",
+    "prompt": "Create a prompt to generate a 12-column grid layout with responsive breakpoints."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Button Variants Prompt",
+    "prompt": "Prompt GPT to generate button variants for primary, secondary, danger, and ghost."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Typography Scale Prompt",
+    "prompt": "Design a prompt to output a modular typographic scale in rems."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Component Library Blueprint",
+    "prompt": "Prompt GPT to plan a component library with 20+ reusable blocks."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "UI Audit Prompter",
+    "prompt": "Write a prompt to scan UI code for consistency with design system standards."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Branding Crosscheck Prompt",
+    "prompt": "Create a prompt that compares new screens against brand tone/style."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Design Systems via Prompt",
+    "promptName": "Design Token Optimizer",
+    "prompt": "Prompt GPT to simplify and deduplicate messy design token lists."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Pair Dev Setup Prompt",
+    "prompt": "Create a prompt that sets GPT as a silent code buddy that only replies when asked."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Code Review Assistant",
+    "prompt": "Write a prompt for GPT to act as a fast, opinionated code reviewer."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Explainer Mode Prompt",
+    "prompt": "Ask GPT to explain code line by line as if teaching a junior dev."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Test Writer Prompt",
+    "prompt": "Create a prompt to generate Jest unit tests for a given function."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Bug Hunter Prompt",
+    "prompt": "Write a prompt for GPT to analyze stack traces and debug step-by-step."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Rewriter Prompt",
+    "prompt": "Prompt GPT to rewrite legacy code using modern best practices."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Git Commit Prompter",
+    "prompt": "Design a prompt to generate clear and useful Git commit messages."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "PR Describer Prompt",
+    "prompt": "Write a prompt that drafts concise pull request descriptions."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Refactor Buddy Prompt",
+    "prompt": "Prompt GPT to refactor functions for readability and performance."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "TDD Simulator",
+    "prompt": "Ask GPT to simulate test-driven development: write test first, then solve."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Language Switch Prompt",
+    "prompt": "Write a prompt to convert a JS function to Go, Python, and Rust."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Feature Sprint Planner",
+    "prompt": "Create a prompt that breaks a feature idea into 3 dev tasks with priorities."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "AI Pair Programming",
+    "promptName": "Code Comment Generator",
+    "prompt": "Prompt GPT to auto-comment all functions with purpose, inputs, and outputs."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Hover Effects Prompt",
+    "prompt": "Write a prompt to generate 5 CSS hover effects for UI buttons."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Card Layout Prompt",
+    "prompt": "Prompt GPT to design a responsive card component with image, title, and CTA."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Navbar Variants Prompt",
+    "prompt": "Ask GPT to build 3 variants of a navigation bar with different styles."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Animation Prompter",
+    "prompt": "Create a prompt that applies framer-motion animations to a modal component."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Icon Generator Prompt",
+    "prompt": "Design a prompt to create custom SVG icons with stroke and fill variations."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Accordion Builder",
+    "prompt": "Prompt GPT to build an accessible accordion with keyboard navigation."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Form Validation Prompt",
+    "prompt": "Write a prompt that adds form validation to a newsletter signup form."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Skeleton Loader Prompt",
+    "prompt": "Ask GPT to create a skeleton loading state component for async content."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Tooltip Generator",
+    "prompt": "Prompt GPT to create 3 tooltip styles with show/hide logic."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Card Hover 3D",
+    "prompt": "Create a prompt to add 3D hover tilt to card components."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Button Group Prompt",
+    "prompt": "Design a prompt that outputs a grouped button component with shared styles."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Component Playground",
+    "promptName": "Input Field Styles",
+    "prompt": "Prompt GPT to create a styled input field with focus and error states."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Brand Tone Builder",
+    "prompt": "Prompt GPT to define a brand voice from 3 sample sentences."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Copy Rewriter Prompt",
+    "prompt": "Write a prompt to rewrite product copy in 5 distinct brand voices."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Value Prop Refiner",
+    "prompt": "Ask GPT to sharpen a brand’s value prop for clarity and impact."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Brand Manifesto Generator",
+    "prompt": "Create a prompt that generates a manifesto from a mission statement."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Landing Page Copy Prompt",
+    "prompt": "Prompt GPT to write above-the-fold text in the brand’s tone."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Tagline Generator",
+    "prompt": "Write a prompt to output 5 brand taglines using tone and theme."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Social Bio Prompter",
+    "prompt": "Ask GPT to create a bio for Twitter, LinkedIn, and Instagram."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Brand Archetype Prompter",
+    "prompt": "Prompt GPT to classify brand tone into archetypes and explain why."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "CTA Tone Prompt",
+    "prompt": "Write a prompt that suggests 5 CTA tones (bold, playful, calm, etc)."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Brand Story Prompt",
+    "prompt": "Prompt GPT to turn a brand’s origin into a 3-act story."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Visual Tone Prompter",
+    "prompt": "Ask GPT to describe visuals that match the brand’s copy tone."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Voice & Brand Builders",
+    "promptName": "Brand Tone Consistency",
+    "prompt": "Create a prompt that checks if all page copy aligns to brand tone."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Landing Page Generator",
+    "prompt": "Write a prompt that outputs a full landing page in HTML/CSS from a 1-line brief."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Newsletter Template Prompt",
+    "prompt": "Create a prompt to build a responsive email newsletter with placeholders."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Blog Template Prompter",
+    "prompt": "Ask GPT to generate a blog post layout with sections: intro, body, CTA."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Portfolio Generator Prompt",
+    "prompt": "Prompt GPT to build a simple dev portfolio with sections for projects and contact."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Component Pack Prompter",
+    "prompt": "Design a prompt to generate a mini component pack (buttons, cards, forms)."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "CMS Layout Prompt",
+    "prompt": "Write a prompt to scaffold a CMS-friendly blog template with markdown support."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Product Page Scaffold",
+    "prompt": "Prompt GPT to generate a product page layout optimized for conversion."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Dashboard UI Prompt",
+    "prompt": "Create a prompt to build a basic dashboard layout with sidebar and charts."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Pricing Table Prompt",
+    "prompt": "Ask GPT to build a 3-tier pricing table component with feature rows."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Login/Signup Flow",
+    "prompt": "Write a prompt that outputs HTML and JS for a login/signup page flow."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Onboarding Sequence Prompt",
+    "prompt": "Prompt GPT to design an onboarding UI with tooltips and progress bar."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "404 Page Generator",
+    "prompt": "Create a prompt to build a playful or branded 404 page."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Email Opt-In UI Prompt",
+    "prompt": "Ask GPT to design a sticky opt-in UI that doesn’t annoy users."
+  },
+  {
+    "mainCategory": "Vibe Coders",
+    "category": "Prompt-Made Templates",
+    "promptName": "Footer Layout Generator",
+    "prompt": "Prompt GPT to create a reusable footer with nav, socials, and newsletter form."
+  }
+]
